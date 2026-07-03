@@ -1,0 +1,17 @@
+skills/
+node_modules/
+__pycache__/
+*.pyc
+.env
+linkedin_tokens.json
+carousel-routine/temp/
+carousel-routine/output/
+linkedin-debug/
+*.pdf
+carousel_content.json
+carousel_caption.txt
+linkedin_posts_*.txt
+linkedin-infographic-*.png
+linkedin-performance-infographic-*.png
+daily_paper_*.html
+daily_paper_*.pdf
