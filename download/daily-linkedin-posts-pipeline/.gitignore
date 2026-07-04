@@ -6,6 +6,7 @@ __pycache__/
 linkedin_tokens.json
 carousel-routine/temp/
 carousel-routine/node_modules/
+carousel-routine/output/
 linkedin-debug/
 carousel_content.json
 carousel_caption.txt
@@ -17,3 +18,7 @@ daily_paper_*.pdf
 research/
 content-memory.json
 render_carousel.cjs
+build_all_carousels.cjs
+build_all_carousels.py
+package.json
+package-lock.json
