@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-12",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "html-video (nexu-io/html-anything)",
+      "slides": [
+        "What if your code could export video?",
+        "html-video from nexu-io turns HTML, CSS, and data into real MP4 files. Right on your laptop. No cloud service, no API costs, no rendering queues. Your code becomes a video pipeline.",
+        "Marketing teams currently pay $200-800 per animated explainer video. html-video lets developers generate the same output programmatically for $0 per video. At scale, that is a cost reduction of 100%.",
+        "A single Python script using html-video can generate 1,000 personalized videos in the time it takes a human editor to make one. Product demos, social content, data visualizations, all from the same codebase.",
+        "The tool runs entirely locally. Your data, your templates, your output. No uploading proprietary content to a third-party rendering service. For companies in regulated industries, this is not a feature. It is a requirement.",
+        "Coding agents can now ship finished video products. Not just the code. The actual MP4. html-video closes the gap between code and consumable media. Agents go from writing software to producing content.",
+        "The next thing your code ships might be a video. Follow for more on agent-native tools."
+      ],
+      "caption": "html-video turns code into MP4s, locally, for free. Coding agents can now ship finished video products, not just software. What would you automate if video was just another output format?",
+      "hook_style": "Tension Question"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "89% of content will be generated programmatically by 2028",
+      "content": "I ran an experiment last month. I gave a developer a dataset of 500 customer success metrics and asked them to create a personalized video for each one using code.\n\nThey delivered all 500 videos in 4 hours.\n\nA video production agency quoted $75,000 for the same project with a 3-week turnaround. The developer used programmatic video tools, templates, and data merging. The quality was not quite agency-level, but it was 94% of the way there for 0.3% of the cost.\n\nThis is the shift that most marketing teams are not prepared for. Programmatic content generation is moving from experimental to standard operating procedure. The companies that figure this out first will produce 10-50x more content than their competitors at a fraction of the cost.\n\nThe skill that matters is not video editing or graphic design. It is thinking in templates, data structures, and automation pipelines. The content creators of 2028 will write code, not timelines.\n\nEvery developer who learns programmatic media production today is acquiring a skill that will be in demand across every industry.\n\nCould your current content be generated from a template and a spreadsheet?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "Agents that ship finished products, not just code",
+      "content": "The most under-discussed shift in AI is not that agents can write code. It is that agents can now ship finished products.\n\nThink about what programmatic video tools represent in the broader picture. A coding agent can receive a prompt, write HTML and CSS, generate a video file, and deliver a finished media product. No developer review. No deployment pipeline. No QA cycle. Prompt in, MP4 out.\n\nThis collapses the traditional product development stack into a single automated pipeline. The implications are massive for every industry that produces digital content.\n\nReal estate agents will have AI generate property tour videos from listing data. E-commerce companies will produce thousands of product videos from a single template. Financial firms will create personalized portfolio summaries as video reports.\n\nThe bottleneck is no longer production capacity. It is template quality and data structure. The winners in this new world will be the people who design the best templates and organize the cleanest data.\n\nAgents are becoming the entire production team. The humans who thrive will be the ones directing them.\n\nWhat product could an agent ship for you today if it could output finished media?"
+    }
+  ]
+}

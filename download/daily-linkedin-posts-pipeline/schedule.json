@@ -1,0 +1,362 @@
+[
+  {
+    "date": "2026-07-05",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Trigger.dev",
+    "pdf_path": "carousel-routine/output/2026-07-05/carousel-branded/carousel-2026-07-05.pdf",
+    "content_file": "posts/day-2026-07-05.json"
+  },
+  {
+    "date": "2026-07-05",
+    "time": "12:00",
+    "type": "text",
+    "topic": "Why workflow coordination is the next job AI eats",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-05.json"
+  },
+  {
+    "date": "2026-07-05",
+    "time": "18:00",
+    "type": "text",
+    "topic": "The three developer skills losing value right now",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-05.json"
+  },
+  {
+    "date": "2026-07-06",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Graphify",
+    "pdf_path": "carousel-routine/output/2026-07-06/carousel-branded/carousel-2026-07-06.pdf",
+    "content_file": "posts/day-2026-07-06.json"
+  },
+  {
+    "date": "2026-07-06",
+    "time": "12:00",
+    "type": "text",
+    "topic": "Why the best developers will stop reading code",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-06.json"
+  },
+  {
+    "date": "2026-07-06",
+    "time": "18:00",
+    "type": "text",
+    "topic": "The enterprise cost of AI hallucinations nobody calculates",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-06.json"
+  },
+  {
+    "date": "2026-07-07",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Video Use Skill",
+    "pdf_path": "carousel-routine/output/2026-07-07/carousel-branded/carousel-2026-07-07.pdf",
+    "content_file": "posts/day-2026-07-07.json"
+  },
+  {
+    "date": "2026-07-07",
+    "time": "12:00",
+    "type": "text",
+    "topic": "Video editing jobs are not dying. They are splitting.",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-07.json"
+  },
+  {
+    "date": "2026-07-07",
+    "time": "18:00",
+    "type": "text",
+    "topic": "Why every knowledge worker needs to think in video by 2027",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-07.json"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Hyperframes",
+    "pdf_path": "carousel-routine/output/2026-07-08/carousel-branded/carousel-2026-07-08.pdf",
+    "content_file": "posts/day-2026-07-08.json"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "12:00",
+    "type": "text",
+    "topic": "The agency model is cracking and most do not see it",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-08.json"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "18:00",
+    "type": "text",
+    "topic": "Static content is dead and most brands are still writing blog posts",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-08.json"
+  },
+  {
+    "date": "2026-07-09",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Sploitas",
+    "pdf_path": "carousel-routine/output/2026-07-09/carousel-branded/carousel-2026-07-09.pdf",
+    "content_file": "posts/day-2026-07-09.json"
+  },
+  {
+    "date": "2026-07-09",
+    "time": "12:00",
+    "type": "text",
+    "topic": "The cybersecurity talent gap is a myth",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-09.json"
+  },
+  {
+    "date": "2026-07-09",
+    "time": "18:00",
+    "type": "text",
+    "topic": "Why offensive security skills will be mandatory for all developers by 2028",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-09.json"
+  },
+  {
+    "date": "2026-07-10",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Openwork",
+    "pdf_path": "carousel-routine/output/2026-07-10/carousel-branded/carousel-2026-07-10.pdf",
+    "content_file": "posts/day-2026-07-10.json"
+  },
+  {
+    "date": "2026-07-10",
+    "time": "12:00",
+    "type": "text",
+    "topic": "Why 67% of enterprise AI deployments fail before month 4",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-10.json"
+  },
+  {
+    "date": "2026-07-10",
+    "time": "18:00",
+    "type": "text",
+    "topic": "Closed AI vendors are structurally incentivized to become your competitor",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-10.json"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Testsprite",
+    "pdf_path": "carousel-routine/output/2026-07-11/carousel-branded/carousel-2026-07-11.pdf",
+    "content_file": "posts/day-2026-07-11.json"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "12:00",
+    "type": "text",
+    "topic": "QA engineers have 18 months before their role fundamentally changes",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-11.json"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "18:00",
+    "type": "text",
+    "topic": "The last 10% of autonomous development is the hardest problem in AI",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-11.json"
+  },
+  {
+    "date": "2026-07-12",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "html-video (nexu-io/html-anything)",
+    "pdf_path": "carousel-routine/output/2026-07-12/carousel-branded/carousel-2026-07-12.pdf",
+    "content_file": "posts/day-2026-07-12.json"
+  },
+  {
+    "date": "2026-07-12",
+    "time": "12:00",
+    "type": "text",
+    "topic": "89% of content will be generated programmatically by 2028",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-12.json"
+  },
+  {
+    "date": "2026-07-12",
+    "time": "18:00",
+    "type": "text",
+    "topic": "Agents that ship finished products, not just code",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-12.json"
+  },
+  {
+    "date": "2026-07-13",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Aura.build",
+    "pdf_path": "carousel-routine/output/2026-07-13/carousel-branded/carousel-2026-07-13.pdf",
+    "content_file": "posts/day-2026-07-13.json"
+  },
+  {
+    "date": "2026-07-13",
+    "time": "12:00",
+    "type": "text",
+    "topic": "The $300B graphic design industry just lost its pricing power",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-13.json"
+  },
+  {
+    "date": "2026-07-13",
+    "time": "18:00",
+    "type": "text",
+    "topic": "One person with AI tools now outproduces an entire marketing team",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-13.json"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Aceternity UI",
+    "pdf_path": "carousel-routine/output/2026-07-14/carousel-branded/carousel-2026-07-14.pdf",
+    "content_file": "posts/day-2026-07-14.json"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "12:00",
+    "type": "text",
+    "topic": "Front-end development is becoming component assembly",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-14.json"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "18:00",
+    "type": "text",
+    "topic": "A $2M design systems project replaced by a 23-year-old in 2 weeks",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-14.json"
+  },
+  {
+    "date": "2026-07-15",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Refero Styles",
+    "pdf_path": "carousel-routine/output/2026-07-15/carousel-branded/carousel-2026-07-15.pdf",
+    "content_file": "posts/day-2026-07-15.json"
+  },
+  {
+    "date": "2026-07-15",
+    "time": "12:00",
+    "type": "text",
+    "topic": "Design system engineers will be replaced by AI agents",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-15.json"
+  },
+  {
+    "date": "2026-07-15",
+    "time": "18:00",
+    "type": "text",
+    "topic": "Structured knowledge formats determine AI leverage",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-15.json"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Mobbin",
+    "pdf_path": "carousel-routine/output/2026-07-16/carousel-branded/carousel-2026-07-16.pdf",
+    "content_file": "posts/day-2026-07-16.json"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "12:00",
+    "type": "text",
+    "topic": "AI pattern recognition is reshaping UX careers",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-16.json"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "18:00",
+    "type": "text",
+    "topic": "The convergence of UI design patterns",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-16.json"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Recent (formerly Godly)",
+    "pdf_path": "carousel-routine/output/2026-07-17/carousel-branded/carousel-2026-07-17.pdf",
+    "content_file": "posts/day-2026-07-17.json"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "12:00",
+    "type": "text",
+    "topic": "AI can generate layouts but not taste",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-17.json"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "18:00",
+    "type": "text",
+    "topic": "Taste as the last human moat in design",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-17.json"
+  },
+  {
+    "date": "2026-07-18",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "10x AI Website Builder",
+    "pdf_path": "carousel-routine/output/2026-07-18/carousel-branded/carousel-2026-07-18.pdf",
+    "content_file": "posts/day-2026-07-18.json"
+  },
+  {
+    "date": "2026-07-18",
+    "time": "12:00",
+    "type": "text",
+    "topic": "Marketing agencies losing ground to AI-powered clients",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-18.json"
+  },
+  {
+    "date": "2026-07-18",
+    "time": "18:00",
+    "type": "text",
+    "topic": "Web developers who build marketing sites are running out of time",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-18.json"
+  },
+  {
+    "date": "2026-07-19",
+    "time": "09:00",
+    "type": "carousel",
+    "topic": "Codebase Memory MCP (DeusData)",
+    "pdf_path": "carousel-routine/output/2026-07-19/carousel-branded/carousel-2026-07-19.pdf",
+    "content_file": "posts/day-2026-07-19.json"
+  },
+  {
+    "date": "2026-07-19",
+    "time": "12:00",
+    "type": "text",
+    "topic": "AI code intelligence collapses traditional seniority timelines",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-19.json"
+  },
+  {
+    "date": "2026-07-19",
+    "time": "18:00",
+    "type": "text",
+    "topic": "Reading code will become more valuable than writing code",
+    "pdf_path": "",
+    "content_file": "posts/day-2026-07-19.json"
+  }
+]

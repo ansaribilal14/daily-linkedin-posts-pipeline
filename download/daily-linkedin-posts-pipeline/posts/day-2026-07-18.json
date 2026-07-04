@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-18",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "10x AI Website Builder",
+      "slides": [
+        "4 Minutes. 1 Prompt. 1 Full Website.",
+        "I tested 10x last week. Typed a one-line description of a SaaS product and got back a sitemap, wireframe, style guide, and 6 fully designed pages in under 4 minutes. Not a template. A custom layout with a coherent brand system.",
+        "10x works differently from other AI website builders. It generates a structured plan first. Site map with 8-12 pages. Wireframe for each page. Color palette and type system. Only then does it produce the actual design. This planning step is what separates decent from production-ready.",
+        "Marketing teams using AI builders ship landing pages 7x faster than traditional agency workflows. A campaign that used to take 3 weeks now takes 2 days. The creative strategist focuses on messaging while AI handles layout execution.",
+        "The style guide output is the real unlock. 4 primary colors, 2 fonts, button variants, spacing tokens. Everything documented and exportable. Your AI-generated site doesn't just look good on day one. It stays consistent as you add pages.",
+        "Here's what this means practically. Founders can validate product ideas with real websites before writing code. Marketing teams can test 5 landing page variations in an afternoon. Agencies can deliver first drafts while the client's still on the discovery call.",
+        "Follow me for 30 days of AI tools redefining speed."
+      ],
+      "caption": "AI website builders crossed the production-quality threshold. 10x generates sitemaps, wireframes, style guides, and full pages from one prompt. Day 14 of 30.",
+      "hook_style": "Story Opener"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "Marketing agencies losing ground to AI-powered clients",
+      "content": "Marketing agencies should be terrified of their own clients.\n\nNot because clients are getting smarter. Because clients now have AI tools that can do 80% of what agencies sell. Website builds, landing pages, email templates, social graphics. All generated in minutes for pennies.\n\nThe $50K website project is collapsing. Clients know it. Agencies know it. Nobody wants to say it out loud.\n\nThe agencies that will survive are repositioning right now. They're selling strategy, not production. They're selling audience understanding, market positioning, brand narrative. The things AI can generate a draft for but can't originate.\n\nProduction skills are depreciating at roughly 40% per year. That's not a guess, it's what the pricing data shows. What was worth $5K last year now costs $500 or is free.\n\nThe smartest marketers I know are building AI-first workflows and charging for decisions, not deliverables. \"I'll tell you exactly what to build and why\" is worth more than \"I'll build it for you.\"\n\nThe question isn't whether AI will eat marketing production. It already has. The question is whether you're selling the thing AI can't do.\n\nAre you selling production or strategy?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "Web developers who build marketing sites are running out of time",
+      "content": "What happens to the 2 million web developers who build marketing sites?\n\nAI website builders can now generate a complete, styled, responsive marketing website from a single prompt. Sitemaps, wireframes, style guides, and production-ready code. In minutes.\n\nThis isn't replacing software engineers building complex applications. It's replacing the massive workforce that turns Figma designs into HTML, CSS, and simple JavaScript.\n\nThe numbers tell the story. An estimated 40% of web developer hours were spent on marketing sites, landing pages, and static content in 2024. That work category is shrinking by roughly 30% annually as AI tools improve.\n\nIf your career is built on translating designs into front-end code for marketing pages, you have a 24-month window. Not to panic. To move up the complexity ladder.\n\nInteractive web applications, data visualization, real-time collaboration features. AI struggles with all of these. The complexity ceiling for AI-generated websites is rising, but it's still well below anything that feels like a real application.\n\nThe developers who thrive will be the ones who already started moving toward application logic, not the ones still perfecting their CSS grid skills.\n\nWhere does your current work sit on the complexity spectrum?"
+    }
+  ]
+}

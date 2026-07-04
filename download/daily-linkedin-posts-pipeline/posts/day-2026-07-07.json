@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-07",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "Video Use Skill",
+      "slides": [
+        "What if editing video required zero clicks?",
+        "A video editing agent on GitHub now handles trimming, color grading, speed changes, and transitions through plain English instructions. No timeline. No keyframes. No Premiere Pro license.",
+        "The Video Use Skill from awesome-genmedia processes natural language commands like \"make the first 10 seconds faster\" or \"add a warm color grade to the interview segments\" and executes them deterministically.",
+        "Professional editors charge $75-200/hour. A single 5-minute corporate video typically costs $2,500-8,000 to produce. AI agents handle 70-80% of the mechanical editing work in under 3 minutes.",
+        "This is not replacing creative editors. It is replacing the 4 hours spent syncing audio, adjusting white balance, and cutting dead air. The creative decisions still belong to humans. The grunt work is gone.",
+        "Video content volume is projected to grow 14x by 2027. The bottleneck was never ideas. It was editing labor. AI agents just removed that bottleneck entirely.",
+        "Follow for more on AI media tools"
+      ],
+      "caption": "Video editing agents are eating the boring 80% of post-production work. The creative 20% just became more valuable. What would you automate first? Follow for more on AI media tools.",
+      "hook_style": "Tension Question"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "Video editing jobs are not dying. They are splitting.",
+      "content": "Everyone says AI will kill video editing jobs. They are wrong.\n\nWhat AI is doing is splitting one job into two completely different careers.\n\nThe mechanical editor who syncs audio, adjusts levels, cuts dead air, and applies standard color grades? That role is 80% automated today. But the creative editor who understands pacing, emotional rhythm, and brand storytelling? Their market value just went up. Way up.\n\nI know three editors who tripled their rates in the last year by positioning themselves as \"creative directors\" who use AI for execution. They now review AI output and make the 5-6 creative decisions that actually move the needle.\n\nThe volume of video content brands need is exploding. The demand for creative taste is following. What is disappearing is demand for manual labor disguised as creative work.\n\nIf your entire skill set is \"I know Premiere Pro really well,\" you are in trouble. If your skill set is \"I know what makes a video feel right,\" you are entering the best market of your career.\n\nWhich side of the split are you on?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "Why every knowledge worker needs to think in video by 2027",
+      "content": "By 2027, 82% of internet traffic will be video. Yet 94% of knowledge workers have zero video production skills.\n\nThat gap is the single largest career opportunity I see right now.\n\nI do not mean you need to become a filmmaker. I mean the ability to communicate ideas visually, even approximately, is becoming as fundamental as email literacy was in 2005.\n\nAI video tools have collapsed the production barrier. You no longer need a camera, a studio, or editing software. You need a clear idea and the ability to describe what you want.\n\nThe people who are already doing this are pulling ahead fast. Sales reps sending 30-second personalized video pitches are getting 3x higher response rates. Product managers recording quick video specs instead of writing 5-page documents are cutting meeting time in half.\n\nThe mechanics are solved. The bottleneck is willingness to start.\n\nRecord a 60-second video explanation of something you would normally write. Post it. That is the entire onboarding process.\n\nWhat is one thing you explained in text today that would have been better as video?"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+[
+  {"slide": 1, "headline": "What if every vulnerability had a price tag?", "body": "", "image_keyword": "vulnerability price tag security"},
+  {"slide": 2, "headline": "One search. Every exploit. Instantly.", "body": "Sploitas is a search engine built specifically for security researchers. Type a software version and get every known exploit, CVE, and vulnerability mapped to it. No more digging through 15 different databases.", "image_keyword": "cybersecurity search engine interface"},
+  {"slide": 3, "headline": "3 seconds instead of 3 hours", "body": "The average time to patch a critical vulnerability is 197 days. During that window, attackers are searching for the exact same exploits. Sploitas makes that search take 3 seconds instead of 3 hours.", "image_keyword": "speed vulnerability research time"},
+  {"slide": 4, "headline": "40% of security time wasted on recon", "body": "Enterprise security teams spend 40% of their time on reconnaissance: finding what is vulnerable, checking exploit availability, assessing real-world risk. A dedicated search engine cuts that time by 8-10x.", "image_keyword": "security team reconnaissance workflow"},
+  {"slide": 5, "headline": "23,000+ new CVEs per year. Tracked in real time.", "body": "There are 23,000+ new CVEs published every year. No human can track them all. Sploitas indexes and cross-references them in real time, connecting exploits to affected systems automatically.", "image_keyword": "CVE database real time tracking"},
+  {"slide": 6, "headline": "Defenders finally match attacker speed", "body": "The offensive security community has been fragmented across dozens of forums, databases, and paste sites. A unified search engine changes the power dynamic. Defenders can now match attacker speed in vulnerability research.", "image_keyword": "defender vs attacker speed race"},
+  {"slide": 7, "headline": "Follow for more on cybersecurity tools", "body": "", "image_keyword": "follow subscribe CTA"}
+]

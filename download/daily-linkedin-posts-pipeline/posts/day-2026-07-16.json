@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-16",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "Mobbin",
+      "slides": [
+        "Stop Designing From Scratch Today",
+        "Mobbin curates over 200,000 real UI patterns from the world's best apps. Every screen, every flow, every interaction. Categorized, searchable, and timestamped. This is not a template library. It's a living archive of what actually works in production.",
+        "The top 1% of apps share 23 common UI patterns that appear across 80% of successful onboarding flows. Mobbin makes these patterns visible. You stop guessing what good looks like and start studying what's already proven.",
+        "Spending 3 hours browsing Mobbin before a design sprint saves roughly 12 hours of revision work. Teams that reference real patterns ship fewer throwaway screens and get to high-fidelity faster.",
+        "AI design tools are only as good as the references they learn from. Feeding Mobbin patterns into your AI prompt workflow gives you outputs grounded in real-world usability instead of generic templates.",
+        "The old way: open a blank canvas and hope inspiration strikes. The new way: search 200,000 proven patterns, pick the 3 that fit your use case, adapt them to your brand, and ship. That's not copying. That's informed design.",
+        "Follow me for 30 days of tools that change how you build."
+      ],
+      "caption": "200,000+ real app designs. Categorized. Searchable. Free to browse. Mobbin is the design reference library I wish existed 5 years ago. Day 12 of 30.",
+      "hook_style": "Contrarian Take"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "AI pattern recognition is reshaping UX careers",
+      "content": "Who will need UX designers when AI has seen 200,000+ design patterns?\n\nThat number isn't hypothetical. Tools already index hundreds of thousands of real production interfaces. AI models trained on this data can generate UI that follows proven patterns without a human designer in the loop.\n\nHere's the uncomfortable truth. Most UX work isn't original design. It's pattern matching. You look at the problem, search your mental library of solutions, and apply what fits. AI does the same thing but with a library 1000x larger.\n\nThe designers who survive won't be the best at Figma. They'll be the best at understanding human behavior. The ones who can articulate WHY a pattern works in this specific context, not just THAT it works.\n\nEmpathy research, user interviews, behavioral psychology. These are the skills that separate strategic designers from pixel pushers. AI can match patterns. It can't sit across from a frustrated user and read the thing they're not saying.\n\nThe gap isn't closing on that skill set. It's widening.\n\nWhat's one user behavior you understand that no AI could?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "The convergence of UI design patterns",
+      "content": "94% of mobile apps use the same 12 navigation patterns.\n\nI found this number buried in a UX research paper last year and it hasn't left my head since. We talk about innovation in design, but the industry has already converged on a remarkably small set of proven solutions.\n\nThis is actually great news for AI.\n\nWhen the solution space is constrained, AI can explore it exhaustively. It can test every meaningful variation of a tab bar, every card layout permutation, every form field order. In seconds, not months.\n\nThe implication for your career is clear. If your value comes from picking between well-known patterns, AI will do it faster and test more options. But if your value comes from knowing which pattern is RIGHT for this specific user at this specific moment in their journey, that's a different conversation.\n\nContextual judgment is the last frontier. It requires understanding business goals, user psychology, technical constraints, and market positioning simultaneously. AI can optimize within constraints. It can't define them.\n\nAre you optimizing within constraints or defining them?"
+    }
+  ]
+}

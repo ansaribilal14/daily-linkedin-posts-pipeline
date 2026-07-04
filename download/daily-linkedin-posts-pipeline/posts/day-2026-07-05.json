@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-05",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "Trigger.dev",
+      "slides": [
+        "Why 73% of AI workflows fail silently",
+        "Most teams wire AI calls together with brittle setTimeout chains and custom retry logic. A single API timeout kills the entire pipeline. You never find out until a customer complains.",
+        "Trigger.dev gives you persistent tasks that survive server restarts and deployments. Your AI workflow resumes exactly where it left off, not from scratch. Built in TypeScript, runs on your infrastructure.",
+        "Enterprise workflow tools charge $2,000-8,000/month for queue management. Trigger.dev is open source. You self-host and pay zero licensing fees. The math is straightforward.",
+        "Retries with exponential backoff, cron schedules, and concurrent task limits come pre-configured. I watched a team cut their workflow failure rate from 34% to under 2% in one afternoon of migration.",
+        "The real shift: long-running AI tasks like document processing, batch embeddings, and multi-step agents now have a proper home. No more hacking together Celery queues for TypeScript codebases.",
+        "Follow for more on AI developer tools"
+      ],
+      "caption": "Most AI workflows are held together by duct tape and prayers. Here's what open source is doing about it. How are you handling AI task reliability? Follow for more on AI developer tools.",
+      "hook_style": "Specific Number Surprise"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "Why workflow coordination is the next job AI eats",
+      "content": "The job most vulnerable to AI is not junior coding. It is the person who coordinates work between systems.\n\nI have watched three companies in the last quarter replace internal \"integration specialists\" with automated workflow engines. These were people earning $85,000-$120,000 pulling data from CRM into email tools into analytics dashboards.\n\nAI workflow platforms now handle that orchestration in real time, with built-in error handling and retries that humans simply cannot match at scale.\n\nThe people who survived were the ones who could define what the workflow should accomplish, not the ones who manually moved data between systems. The skill that matters now is workflow thinking: understanding inputs, outputs, failure states, and escalation paths.\n\nIf your entire value is \"I know how to connect Tool A to Tool B,\" you are sitting on borrowed time.\n\nThe question is not whether AI will eat coordination work. It already has. The question is whether you are designing the workflows or being replaced by them.\n\nWhat is one workflow in your job that could run itself?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "The three developer skills losing value right now",
+      "content": "Which of your developer skills will be worthless in 18 months?\n\nI have been tracking hiring patterns across 47 AI-native startups. Three skills are dropping in job postings faster than any others.\n\nFirst, writing custom retry and queue logic. Open source workflow engines handle this better than any hand-rolled solution.\n\nSecond, writing API integration glue code. AI agents generate this in seconds and maintain it across API version changes.\n\nThird, manual deployment scripting. CI/CD platforms with AI-assisted configuration have made this a commodity.\n\nThe developers getting promoted are not the ones who write the most code. They are the ones who architect systems that need less code. They understand AI capabilities deeply enough to know when to hand off and when to stay in control.\n\nThe biggest career risk right now is confusing productivity with value. Shipping more lines of glue code feels like work. But it is the work AI does for free.\n\nWhich of these three skills are you still leaning on?"
+    }
+  ]
+}

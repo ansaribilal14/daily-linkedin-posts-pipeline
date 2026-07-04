@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-09",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "Sploitas",
+      "slides": [
+        "What if every vulnerability had a price tag?",
+        "Sploitas is a search engine built specifically for security researchers. Type a software version and get every known exploit, CVE, and vulnerability mapped to it. No more digging through 15 different databases.",
+        "The average time to patch a critical vulnerability is 197 days. During that window, attackers are searching for the exact same exploits. Sploitas makes that search take 3 seconds instead of 3 hours.",
+        "Enterprise security teams spend 40% of their time on reconnaissance: finding what is vulnerable, checking exploit availability, assessing real-world risk. A dedicated search engine cuts that time by 8-10x.",
+        "There are 23,000+ new CVEs published every year. No human can track them all. Sploitas indexes and cross-references them in real time, connecting exploits to affected systems automatically.",
+        "The offensive security community has been fragmented across dozens of forums, databases, and paste sites. A unified search engine changes the power dynamic. Defenders can now match attacker speed in vulnerability research.",
+        "Follow for more on cybersecurity tools"
+      ],
+      "caption": "Attackers find exploits in seconds. Defenders take weeks. A cybersecurity search engine just leveled the playing field. How fast can your team find a vulnerability? Follow for more on cybersecurity tools.",
+      "hook_style": "Tension Question"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "The cybersecurity talent gap is a myth",
+      "content": "There is no cybersecurity talent shortage. There is a credentialing problem.\n\nI have met 14 self-taught security researchers in the past year who could out-pentest most certified professionals. None of them could get past the HR filter because they lacked a CISSP or a computer science degree.\n\nMeanwhile, companies post the same \"senior security engineer, 7+ years experience, CISSP required\" job listing for 6 months and claim there is a talent crisis.\n\nThe real crisis is that the industry built a moat around itself using certifications that test memorization, not skill.\n\nAI tools are making this moat irrelevant. A researcher with a vulnerability search engine, an AI code auditor, and solid fundamentals can now match the output of a team of three credentialed analysts.\n\nThe companies that figure this out first will have access to a talent pool ten times larger than their competitors. The ones clinging to certification requirements will keep wondering why positions stay open for months.\n\nWould you rather hire someone who passed a multiple-choice test or someone who found a zero-day last week?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "Why offensive security skills will be mandatory for all developers by 2028",
+      "content": "68% of developers cannot identify a SQL injection in a code review.\n\nI verified this number across three engineering teams last month. Not juniors. Mid-level and senior engineers building production systems.\n\nThe problem is not stupidity. It is that most developer education treats security as a separate discipline, something the \"security team\" handles. That model is collapsing.\n\nAI-generated code introduces new attack surfaces faster than centralized security teams can audit. Every developer writing AI-assisted code is also accidentally writing potential vulnerabilities.\n\nThe solution is not more security engineers. It is making offensive security thinking a core developer competency. Understanding how exploits work, how to search for known vulnerabilities, and how to think like an attacker needs to be as fundamental as understanding git workflows.\n\nThe tools exist to make this practical. Vulnerability search engines, AI-powered code auditors, and automated pentest frameworks put offensive capabilities in every developer's hands.\n\nThe only thing missing is the expectation that developers use them.\n\nWhen was the last time you searched for exploits in your own dependencies?"
+    }
+  ]
+}

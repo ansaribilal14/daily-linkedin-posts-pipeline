@@ -1,0 +1,9 @@
+[
+  {"slide": 1, "headline": "A video that was never filmed", "body": "", "image_keyword": "unfilmed video AI generated"},
+  {"slide": 2, "headline": "Code becomes video. Pixel-perfect. Every time.", "body": "HeyGen's Hyperframes converts HTML and CSS directly into MP4 video files. No browser recording, no screen capture, no rendering pipeline. The code becomes the video. Deterministically, pixel-perfect, every time.", "image_keyword": "HTML CSS to video conversion"},
+  {"slide": 3, "headline": "Built for AI agents, not humans", "body": "This was built specifically for AI agents. An agent writes HTML, runs Hyperframes, and gets back a video file. No human opens a browser. No GUI interaction. Pure code-to-video generation.", "image_keyword": "AI agent automation workflow"},
+  {"slide": 4, "headline": "$15,000 video project for nearly zero", "body": "Marketing agencies currently charge $3,000-15,000 for animated product videos. Hyperframes can generate the same output from a template and data feed in seconds. The cost drops to nearly zero.", "image_keyword": "cost disruption agency pricing"},
+  {"slide": 5, "headline": "10,000 personalized videos from one template", "body": "The real disruption: dynamic video at scale. Personalized videos for 10,000 customers, each with different names, products, and offers, generated from a single HTML template. Try doing that in After Effects.", "image_keyword": "personalized video at scale"},
+  {"slide": 6, "headline": "Video becomes the default, not the premium", "body": "Static images and text are losing the attention war. Video converts 2-3x better across every platform. Hyperframes makes video the default output format, not a premium add-on.", "image_keyword": "video conversion rates engagement"},
+  {"slide": 7, "headline": "Follow for more on AI media tools", "body": "", "image_keyword": "follow subscribe CTA"}
+]

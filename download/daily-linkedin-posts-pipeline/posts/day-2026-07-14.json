@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-14",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "Aceternity UI",
+      "slides": [
+        "Beautiful UI for developers who can't design",
+        "Aceternity UI offers 200+ free copy-paste React and Next.js components built with Tailwind CSS and Framer Motion. Every component ships with smooth animations and production-ready code. You do not need a design degree.",
+        "A typical UI component library costs $200-500 per developer seat annually. Aceternity UI is completely free and open source. For a team of 10 developers, that is $2,000-5,000 saved per year on component licenses alone.",
+        "The components come with Framer Motion animations pre-configured. Adding smooth, professional transitions to your app no longer requires a dedicated motion designer or 40 hours of CSS animation work.",
+        "Over 180,000 developers use Aceternity UI in production. The library covers navigation patterns, data grids, complex card layouts, and hero sections. If your app needs it, the component probably exists.",
+        "The real value is not the components themselves. It is the design system they represent. Consistent spacing, typography, color, and motion patterns without hiring a design systems team to build and maintain them.",
+        "Copy. Paste. Ship. Follow for more developer tools."
+      ],
+      "caption": "Aceternity UI gives you 200+ animated React components for free. Copy, paste, ship. No design skills required. What component took you the longest to build from scratch?",
+      "hook_style": "Contrarian Take"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "Front-end development is becoming component assembly",
+      "content": "A hiring manager at a Series C company told me last week they stopped testing front-end developers on CSS and JavaScript fundamentals.\n\nInstead, they test on component library fluency, design system thinking, and the ability to assemble pre-built pieces into cohesive user interfaces.\n\nThis is the direction front-end development is moving. Not because fundamentals do not matter, but because the value creation has shifted upstream. Writing a button component from scratch is not a differentiator. Choosing the right component, customizing it correctly, and integrating it into a seamless user experience is.\n\nLibraries like Aceternity UI, shadcn, and Radix are making it possible to build production-quality interfaces without writing low-level CSS or managing complex state in custom components. The code you write is increasingly glue code between well-designed building blocks.\n\nThe front-end developers who will command premium rates in 2028 are the ones who can think in systems, not in pixels. The ones who understand user psychology, information architecture, and interaction design at a level that makes their assembly work feel intentional.\n\nThe front-end craftsman is retiring. The front-end architect is arriving.\n\nCan you build a complete UI using only pre-built components?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "A $2M design systems project replaced by a 23-year-old in 2 weeks",
+      "content": "A Fortune 500 company I advised spent $2.1 million and 14 months building a proprietary design system. 340 components, detailed documentation, Figma libraries, the works.\n\nLast month, a 23-year-old developer on a new team rebuilt 80% of that system in 2 weeks using open source component libraries. The remaining 20% were custom components specific to their business logic.\n\nThe proprietary system was not bad. It was well-built and well-documented. But it was also a maintenance burden requiring 3 full-time designers and 2 engineers just to keep it updated.\n\nThe open source alternative? It updates itself because the community maintains it. New components appear without any internal resourcing. Bug fixes ship in days instead of the company's 6-week release cycle.\n\nI am seeing this pattern repeat across 8 enterprise companies in my network. Multi-million dollar design system investments are being supplemented or replaced by open source libraries that cost nothing and improve faster.\n\nThe companies that spent heavily on proprietary design systems are not wrong. They were just early. The open source ecosystem caught up faster than anyone expected, and now the economics do not make sense anymore.\n\nHas your company built something that open source now does for free?"
+    }
+  ]
+}

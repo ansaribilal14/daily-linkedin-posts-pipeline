@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-11",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "Testsprite",
+      "slides": [
+        "312 tests written while you sleep",
+        "Testsprite is an autonomous testing platform that does not just run your tests. It builds the test plan, writes the code, executes everything, and debugs failures. Start to finish, no human in the loop.",
+        "The average engineering team spends 30-40% of total development time on testing. Testsprite cuts that to under 5% by handling the entire testing pipeline autonomously. That is not an improvement. It is a restructure of how engineering time gets allocated.",
+        "A single Testsprite run generates 200-400 test cases for a mid-size application. Manual QA teams typically produce 40-60 in the same timeframe. The coverage gap is not marginal. It is 5-8x.",
+        "Debugging test failures used to take 2-3 hours per failure. Testsprite analyzes the failure, traces the root cause, and suggests the fix. Average resolution time drops to under 15 minutes.",
+        "The companies adopting autonomous testing first are not the ones with the biggest QA teams. They are the ones that realized QA as a manual discipline was already broken. Testsprite just made the fix obvious.",
+        "If your testing pipeline still needs humans, you are already behind. Follow for more AI engineering tools."
+      ],
+      "caption": "Testsprite writes tests, runs them, and fixes failures, all while you sleep. Autonomous testing is not coming, it shipped. What percentage of your engineering time goes to testing?",
+      "hook_style": "Specific Number Surprise"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "QA engineers have 18 months before their role fundamentally changes",
+      "content": "A QA lead managing 9 people at a fintech company told me her ticket backlog dropped from 340 to 12 in six weeks after deploying autonomous testing.\n\nHer board is now asking why she needs 9 people.\n\nI have heard the same pattern from 6 different QA leads in the past month. Autonomous testing platforms do not replace QA engineers overnight. They replace the demand for 80% of what QA teams do.\n\nThe writing is on the wall for manual test case creation, regression testing, and test maintenance. These are exactly the tasks that AI handles with higher coverage and faster execution than any human team.\n\nQA engineers who survive this transition will be the ones who move upstream into test strategy, quality architecture, and AI pipeline oversight. The ones who keep writing test cases by hand will be managing smaller and smaller teams until there is nothing left to manage.\n\nThe 18-month window is how long autonomous testing tools need to reach enterprise maturity.\n\nIf you are in QA right now, what is your plan for 2028?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "The last 10% of autonomous development is the hardest problem in AI",
+      "content": "Everyone is focused on AI writing code. The real bottleneck is AI verifying that code works.\n\nI have seen AI coding assistants generate functional applications in hours. Then a human spends days testing, debugging edge cases, and catching regressions. The autonomous part of autonomous development is not the writing. It is the validation.\n\nPlatforms like Testsprite represent the missing half of the autonomous development equation. Write code with AI, verify with AI, deploy with confidence. The loop closes.\n\nBut here is the problem most people are not talking about. The last 10% of testing, the weird edge cases, the race conditions, the integration failures that only appear under production load, that is where autonomous testing still struggles.\n\nCompanies that figure out how to solve this last mile will own the next phase of the AI engineering revolution. Not because they write better code, but because they verify better code, faster, and with zero human intervention.\n\nThe question is not whether autonomous development will happen. It is whether the verification problem gets solved in 2027 or 2029.\n\nWhat is the one type of bug your team still catches manually?"
+    }
+  ]
+}

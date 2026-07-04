@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-13",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "Aura.build",
+      "slides": [
+        "A landing page used to cost $15,000",
+        "Aura.build creates production-ready landing page designs in seconds. You type what you want. It generates the layout, typography, color system, and responsive behavior. Then exports to HTML and Figma.",
+        "The average agency charges $5,000 to $25,000 for a single landing page with a 2-4 week timeline. Aura.build delivers comparable output in under 60 seconds. The cost difference is not incremental. It is categorical.",
+        "Figma exports mean designers can still refine the output. This is not about replacing designers. It is about skipping the blank canvas phase that takes 60-70% of total design time on any project.",
+        "Aura.build is trained on high-converting landing page patterns, not just aesthetics. The designs it produces are structured for conversion: clear hierarchy, strategic whitespace, and CTAs placed where they actually get clicked.",
+        "Early users report launching 5-10x more landing page variants for A/B testing because the cost of creating each variant dropped to near zero. More experiments, more data, faster optimization cycles.",
+        "The design cost curve just bent. Follow for more AI design tools."
+      ],
+      "caption": "Aura.build generates landing pages in seconds and exports to HTML and Figma. The cost of going from idea to live page just hit zero. How many landing pages would you test if each one was free?",
+      "hook_style": "Story Opener"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "The $300B graphic design industry just lost its pricing power",
+      "content": "A design agency I know charged $12,000 per landing page in 2024. Last month they quoted $3,000 for the same deliverable. They told me they had no choice.\n\nTheir clients are using AI design tools to generate first drafts in 30 seconds. The agency is no longer selling creation. They are selling revision and refinement. That is a much smaller business.\n\nThis is happening across every design discipline. Logo design, social media graphics, email templates, presentation decks. The tools are not quite at professional quality, but they are close enough that clients question every dollar spent on human design.\n\nThe total addressable market for graphic design services was estimated at $300 billion globally. AI design tools are compressing that number fast, not by eliminating the need for design but by making the baseline free.\n\nDesigners who adapt will move into creative direction, brand strategy, and AI output curation. The ones who keep selling pixel-pushing will find their rates cut by 60-80% over the next two years.\n\nThe design skill that retains value is taste, not technique.\n\nWhen was the last time a client paid you for your taste, not your time?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "One person with AI tools now outproduces an entire marketing team",
+      "content": "I met a solo founder last week who runs a SaaS with 4,200 users and $42K MRR. She handles all marketing herself using AI design and content tools.\n\nHer monthly marketing output: 12 landing pages, 40 social posts, 8 email campaigns, and 4 product demo videos. All created by her, with AI, in about 15 hours per week.\n\nTwo years ago, that workload required a team of 4: a designer, a content writer, a video editor, and a marketing manager. Total monthly cost: around $35,000.\n\nHer cost: $200 in AI tool subscriptions.\n\nThis is not an anomaly. I am tracking 20+ solo operators who have replaced marketing teams of 3-6 people with AI-powered workflows. The output quality varies, but the quantity advantage is overwhelming. More experiments, more variants, more data, faster iteration.\n\nThe marketing agency model was already under pressure. AI design tools are not just reducing costs. They are making it possible for one person to operate at the velocity of an entire team.\n\nThe question for every marketer is simple. Are you the one person, or are you the team being replaced?\n\nCould you do your entire team's job with AI tools if you had to?"
+    }
+  ]
+}

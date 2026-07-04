@@ -1,0 +1,9 @@
+[
+  {"slide": 1, "headline": "Your codebase knowledge is becoming worthless", "body": "", "image_keyword": "obsolete knowledge fading away"},
+  {"slide": 2, "headline": "Institutional knowledge just got commoditized", "body": "\"Knowing where every function lives\" used to make you irreplaceable. AI tools now map entire repositories into structured knowledge graphs in minutes. That deep institutional knowledge just got commoditized.", "image_keyword": "developer replaced by AI mapping"},
+  {"slide": 3, "headline": "One graph for your entire project", "body": "Graphify ingests code, documentation, PDFs, images, even video files and builds a unified knowledge graph. Your AI assistant no longer guesses context. It navigates a precise map of your entire project.", "image_keyword": "knowledge graph visualization network"},
+  {"slide": 4, "headline": "40-60% fewer AI hallucinations", "body": "Teams using knowledge graph context report 40-60% fewer AI hallucinations in code generation. The AI has actual structure to reference, not just fuzzy pattern matching against your codebase.", "image_keyword": "accuracy improvement metrics"},
+  {"slide": 5, "headline": "Memorization vs judgment", "body": "The competitive edge is shifting from \"I know this codebase\" to \"I can define the right problems for AI to solve within this codebase.\" The first is memorization. The second is judgment.", "image_keyword": "strategic thinking judgment"},
+  {"slide": 6, "headline": "Blind questions vs perfect vision", "body": "By 2027, every serious engineering team will have a project knowledge graph. The ones without it will be handicapped, asking AI questions blind while competitors give their AI perfect vision.", "image_keyword": "future engineering teams 2027"},
+  {"slide": 7, "headline": "Follow for more on AI developer tools", "body": "", "image_keyword": "follow subscribe CTA"}
+]

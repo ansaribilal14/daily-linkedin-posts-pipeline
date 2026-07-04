@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-06",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "Graphify",
+      "slides": [
+        "Your codebase knowledge is becoming worthless",
+        "\"Knowing where every function lives\" used to make you irreplaceable. AI tools now map entire repositories into structured knowledge graphs in minutes. That deep institutional knowledge just got commoditized.",
+        "Graphify ingests code, documentation, PDFs, images, even video files and builds a unified knowledge graph. Your AI assistant no longer guesses context. It navigates a precise map of your entire project.",
+        "Teams using knowledge graph context report 40-60% fewer AI hallucinations in code generation. The AI has actual structure to reference, not just fuzzy pattern matching against your codebase.",
+        "The competitive edge is shifting from \"I know this codebase\" to \"I can define the right problems for AI to solve within this codebase.\" The first is memorization. The second is judgment.",
+        "By 2027, every serious engineering team will have a project knowledge graph. The ones without it will be handicapped, asking AI questions blind while competitors give their AI perfect vision.",
+        "Follow for more on AI developer tools"
+      ],
+      "caption": "The \"10x developer who knows every line\" is being replaced by the developer who gives AI perfect context. Which side are you on? Follow for more on AI developer tools.",
+      "hook_style": "Contrarian Take"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "Why the best developers will stop reading code",
+      "content": "Last month a senior engineer told me she stopped reading her team's pull requests entirely. She reads the AI-generated summaries instead.\n\nI almost dismissed her until I saw her team's velocity numbers: 3.2x output with 28% fewer bugs than the quarter before.\n\nShe did not stop caring about quality. She stopped doing the part of her job that a machine does more reliably. Reading 400-line diffs and catching a missing null check is pattern matching. AI excels at pattern matching.\n\nWhat she does now is architecture review: asking whether the right problem is being solved, whether the abstractions hold, whether the system will survive the next pivot.\n\nThat is judgment. And judgment scales in ways that line-by-line reading never could.\n\nThe developers who will thrive in the next two years are not the ones who read the most code. They are the ones who ask the hardest questions about the code someone else wrote.\n\nWhat is the last pull request you genuinely needed to read line by line?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "The enterprise cost of AI hallucinations nobody calculates",
+      "content": "87% of enterprises using AI coding tools have no system to measure hallucination cost.\n\nI asked 23 engineering leaders last month. Only three could tell me how much time their teams spent verifying AI-generated code.\n\nThe real number, when they dug into it, scared them. One team of 12 engineers was spending 6.4 hours per person per week reviewing and fixing AI output. That is 3,993 hours per year. At an average loaded cost of $95/hour, that is $379,335 of invisible waste.\n\nThe fix is not better prompts. It is better context. When AI has a knowledge graph to reference instead of raw files, hallucination rates drop because the AI has structure to work with, not just statistical guesses.\n\nThe companies winning with AI are not the ones using the biggest models. They are the ones feeding their AI the best context.\n\nMost companies are spending $50,000 on model APIs and $0 on context infrastructure. That ratio is backwards.\n\nHow much time does your team spend fixing AI mistakes?"
+    }
+  ]
+}

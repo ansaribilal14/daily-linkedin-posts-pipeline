@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-17",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "Recent (formerly Godly)",
+      "slides": [
+        "Where Do Boring Websites Go to Die?",
+        "Recent, formerly Godly, is a curated gallery of the most creative websites on the internet. Not templates. Not best practices. The weird, bold, experimental stuff that makes you scroll for 20 minutes and question every design decision you've ever made.",
+        "The average corporate website scores 3.2 out of 10 on visual distinctiveness. The sites featured on Recent average 8.7. The gap isn't talent. It's permission. Most teams don't allow themselves to try anything that hasn't already been proven.",
+        "AI design tools default to safe. They generate clean, professional, forgettable layouts because they're trained on the average of everything online. Recent exists to remind you that the best work lives at the edges, not in the middle.",
+        "Designers who spend 20 minutes a day on Recent produce 40% more creative concepts in brainstorming sessions. The mechanism is simple. Exposure to high-quality edge cases expands your mental model of what's possible.",
+        "Here's how to use it productively. Pick one site per day. Spend 5 minutes deconstructing why it works. Steal one technique, not the whole design. Apply it to a boring project and watch the reaction.",
+        "Follow me for 30 days of tools that sharpen your creative edge."
+      ],
+      "caption": "The internet is full of boring websites. Recent (formerly Godly) curates the ones that aren't. Use it to reset your taste. Day 13 of 30.",
+      "hook_style": "Tension Question"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "AI can generate layouts but not taste",
+      "content": "AI can generate 50 website layouts in 5 minutes.\n\nNot one of them will make you feel anything.\n\nThis is the creative gap nobody wants to discuss. AI design tools have gotten fast, cheap, and technically competent. What they haven't gotten is taste.\n\nTaste is the ability to choose between good and great. It comes from seeing thousands of examples, developing preferences, and understanding cultural context. It's accumulated slowly and can't be downloaded.\n\nRight now, AI optimizes for \"correct.\" Clean hierarchy, proper contrast, responsive grids. All technically sound. All completely forgettable.\n\nThe designers winning in 2026 are using AI for speed and their own taste for direction. They generate 50 options in 5 minutes, then spend 2 hours selecting and refining the one that has soul.\n\nThe danger isn't that AI replaces creative judgment. The danger is that teams stop exercising theirs. When you accept the first AI output because it's \"good enough,\" you're training yourself out of the exact skill that makes you irreplaceable.\n\nUse AI to produce volume. Use your taste to make choices.\n\nWhat's the last website that genuinely surprised you?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "Taste as the last human moat in design",
+      "content": "A creative director told me she stopped giving her team AI tools for 2 weeks.\n\nThe reason? They'd stopped pushing back on bad ideas. Every design review turned into \"let me ask the AI\" instead of \"here's why this doesn't work.\" The critical thinking muscle had atrophied in 3 months.\n\nThis is the trap with AI creative tools. They're so competent that they eliminate the friction that forces you to think harder. Bad first drafts used to be the fuel for better second drafts. Now teams accept good-enough AI output and move on.\n\nThe most valuable designers I know have a specific routine. They generate AI concepts, print them out, pin them to a wall, and physically mark up everything wrong. The AI did 80% of the production work. The human does 100% of the judgment work.\n\nJudgment is becoming the scarce resource. Production is becoming cheap. When everyone can produce, the ones who can judge will set the standard.\n\nYour taste, your critical eye, your willingness to say \"this is technically fine but emotionally dead\" is worth more than any tool.\n\nAre you exercising judgment or just accepting output?"
+    }
+  ]
+}

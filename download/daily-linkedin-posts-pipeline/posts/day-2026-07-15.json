@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-15",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "Refero Styles",
+      "slides": [
+        "1 Markdown File Replaces 47 Config Files",
+        "Most design systems are trapped in Figma. AI agents can't parse them, so every AI-generated UI gets your brand wrong. Refero Styles puts your entire design language into one DESIGN.md file. Colors, type scale, spacing, components. All machine-readable.",
+        "AI agents process structured markdown 12x faster than Figma API responses. Your coding assistant already speaks markdown fluently. When you feed it design tokens as plain text, you skip the translation layer entirely.",
+        "A typical DESIGN.md holds 6 color primitives, 8 type scale steps, a 4px spacing grid, and 15-20 component schemas. That's enough for any AI agent to build pixel-accurate UI without guessing.",
+        "Teams using AI-readable design tokens report 3x fewer handoff cycles between design and engineering. The reason is mechanical. Remove the human middleman and sync happens at machine speed.",
+        "Old path: designer exports tokens, developer copies them, tokens drift apart by week 2. New path: designer updates DESIGN.md, AI reads it in 200ms, every component reflects the change immediately.",
+        "Follow me for 30 days of AI tools that actually change how you work."
+      ],
+      "caption": "Your design system is useless if AI can't read it. DESIGN.md files are the bridge between your brand and AI agents. Day 11 of 30.",
+      "hook_style": "Specific Number Surprise"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "Design system engineers will be replaced by AI agents",
+      "content": "Design system engineers will not exist in 3 years.\n\nNot because design systems are dying. Because AI agents will maintain them.\n\nRight now companies pay senior engineers $180K+ to keep Figma tokens in sync with code. It's tedious, repetitive, and exactly the kind of work LLMs already do well.\n\nThe real shift isn't about automation. It's about who defines the rules.\n\nWhen AI can read, interpret, and apply your design language automatically, the bottleneck moves upstream. The person who decides WHAT the design system should be becomes more valuable than the person who maintains it.\n\nStrategic designers who think in systems and constraints will thrive. Token-pushers won't.\n\nThe actionable move: stop framing your value around implementation speed. Start framing it around design decision quality. Can you explain why your spacing scale is 4px and not 5px? Can you defend your color contrast ratios with accessibility math?\n\nThat's the work AI can't do yet. And it might be the most valuable design skill of 2027.\n\nWhat part of your design workflow do you think AI will own first?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "Structured knowledge formats determine AI leverage",
+      "content": "Last month I watched a startup ship an entire component library in 2 days.\n\nNot 2 weeks. 2 days. The secret wasn't a bigger team or better tools. They wrote their design tokens as structured markdown and fed them directly to an AI coding agent.\n\nThis is the shift nobody talks about. The format of your knowledge determines how fast AI can use it.\n\nUnstructured knowledge lives in docs, wikis, and meeting recordings. AI has to guess what matters. Structured knowledge lives in typed schemas, markdown tables, and formal grammar. AI reads it like a blueprint.\n\nThe companies winning with AI aren't the ones with the best models. They're the ones with the best-structured data.\n\nThink about what this means for your career. If your expertise lives only in your head or in messy documents, AI can't help you scale it. But the moment you externalize it in machine-readable formats, you become 10x more leverageable.\n\nThe question isn't whether AI will replace you. It's whether your knowledge is formatted for AI to amplify you.\n\nAre you writing your expertise down in a way machines can read?"
+    }
+  ]
+}

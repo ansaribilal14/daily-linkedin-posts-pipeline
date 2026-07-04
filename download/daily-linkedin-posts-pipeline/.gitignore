@@ -14,4 +14,15 @@ linkedin_posts_*.txt
 linkedin-infographic-*.png
 linkedin-performance-infographic-*.png
 daily_paper_*.html
-daily_paper_*.pdf
+daily_paper_*.pdfnode_modules/
+package.json
+package-lock.json
+carousel-routine/temp/
+carousel-routine/output/
+carousel-routine/node_modules/
+research/
+content-memory.json
+render_carousel.cjs
+build_all_carousels.cjs
+build_all_carousels.py
+linkedin-debug/

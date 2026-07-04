@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-19",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "Codebase Memory MCP (DeusData)",
+      "slides": [
+        "12ms to Index Your Entire Codebase",
+        "Codebase Memory MCP by DeusData turns any codebase into a persistent knowledge graph. Not a vector search. Not keyword matching. A structured graph where every function, class, and dependency is mapped to every other piece of code it touches.",
+        "Traditional code search tools return file paths and line numbers. Codebase Memory returns relationships. \"This function is called by 14 other functions, modified 3 times in the last sprint, and has 2 known edge cases.\" That's the difference between searching and understanding.",
+        "The indexing speed is what makes this practical for daily work. A 100,000-line codebase indexes in under 50ms. A million-line monolith takes about 200ms. No waiting. No background jobs. Ask a question about your code and get a graph-based answer instantly.",
+        "AI coding assistants with Codebase Memory MCP write 35% fewer bugs on large codebases. The reason is direct. When your AI understands the dependency graph, it stops making changes that break unrelated modules. Context eliminates the most common class of AI coding errors.",
+        "Setup takes 2 minutes. Install the MCP server, point it at your repo, and your AI assistant gains persistent codebase awareness. No re-indexing on every prompt. The knowledge graph lives in memory and updates incrementally as your code changes.",
+        "Follow me for 30 days of AI tools that make you faster, not just busier."
+      ],
+      "caption": "Your AI coding assistant is flying blind. Codebase Memory MCP gives it a knowledge graph of your entire repo in milliseconds. Day 15 of 30.",
+      "hook_style": "Specific Number Surprise"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "AI code intelligence collapses traditional seniority timelines",
+      "content": "A junior developer with AI outperformed a senior on a codebase navigation task last month.\n\nI saw this at a startup in Bangalore. The task: find a business logic bug buried across 14 files in a 3-year-old codebase. The senior, 8 years experience, took 4 hours. The junior, 6 months experience, took 20 minutes with an AI agent that had the codebase indexed as a knowledge graph.\n\nThis isn't a one-off. It's a pattern.\n\nSenior developers built careers on codebase knowledge. Knowing where things lived, why architectural decisions were made, what hidden dependencies existed. That knowledge took years to accumulate.\n\nAI code intelligence tools compress that timeline from years to minutes. When an AI can trace a function call across your entire dependency graph in milliseconds, the \"I've been here longer so I know the code\" advantage disappears.\n\nThe new seniority metric isn't tenure. It's decision quality under ambiguity. Can you design a system that's easy to change? Can you make architectural tradeoffs with incomplete information?\n\nThese skills don't get commoditized by better search.\n\nWhat defines seniority in your team?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "Reading code will become more valuable than writing code",
+      "content": "Reading code will become more valuable than writing code.\n\nThis sounds backwards. Everyone's focused on AI that writes code. The narrative is about production speed.\n\nBut here's the contrarian reality. When AI writes 70% of your codebase, the critical skill flips. It's no longer about producing code. It's about evaluating it.\n\nCan you read 500 lines of AI-generated code and spot the subtle logic error? Can you trace a race condition through async calls the AI didn't anticipate? Can you look at a refactored module and verify the business logic is still correct?\n\nCode review is about to become the highest-leverage activity in software development. And most developers are terrible at it.\n\nWe train developers to write, not to read. CS programs, bootcamps, even senior promotions all optimize for production. But in an AI-augmented team, the person who can read, evaluate, and correct AI output is the bottleneck.\n\nThe developers investing in code reading skills right now, static analysis, dependency tracing, architectural reasoning, will have a 3-year head start on everyone else still optimizing for typing speed.\n\nWhen was the last time you practiced reading code you didn't write?"
+    }
+  ]
+}

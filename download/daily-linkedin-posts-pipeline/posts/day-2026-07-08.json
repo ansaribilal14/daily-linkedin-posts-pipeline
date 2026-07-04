@@ -1,0 +1,33 @@
+{
+  "date": "2026-07-08",
+  "posts": [
+    {
+      "time": "09:00",
+      "type": "carousel",
+      "idea": "Hyperframes",
+      "slides": [
+        "A video that was never filmed",
+        "HeyGen's Hyperframes converts HTML and CSS directly into MP4 video files. No browser recording, no screen capture, no rendering pipeline. The code becomes the video. Deterministically, pixel-perfect, every time.",
+        "This was built specifically for AI agents. An agent writes HTML, runs Hyperframes, and gets back a video file. No human opens a browser. No GUI interaction. Pure code-to-video generation.",
+        "Marketing agencies currently charge $3,000-15,000 for animated product videos. Hyperframes can generate the same output from a template and data feed in seconds. The cost drops to nearly zero.",
+        "The real disruption: dynamic video at scale. Personalized videos for 10,000 customers, each with different names, products, and offers, generated from a single HTML template. Try doing that in After Effects.",
+        "Static images and text are losing the attention war. Video converts 2-3x better across every platform. Hyperframes makes video the default output format, not a premium add-on.",
+        "Follow for more on AI media tools"
+      ],
+      "caption": "HTML + CSS = MP4. No camera, no editor, no rendering pipeline. AI agents just got a video factory. How would you use code-to-video? Follow for more on AI media tools.",
+      "hook_style": "Story Opener"
+    },
+    {
+      "time": "12:00",
+      "type": "text",
+      "topic": "The agency model is cracking and most do not see it",
+      "content": "A $50,000 animated video project now costs under $200 to produce.\n\nI am not exaggerating. I have seen three companies replace their entire motion graphics pipeline with AI-powered HTML-to-video tools in the last 60 days.\n\nThe agency model was built on two things: creative talent and production labor. AI is eating the production labor part at a pace that would have seemed absurd 12 months ago. What used to require a designer, an animator, a compositor, and a render farm now requires a prompt and a template.\n\nThe agencies that will survive are not the ones with the best software. They are the ones with the best strategic thinking. Clients do not need you to make a video anymore. They need you to decide which video to make, for whom, and why.\n\nThat is a consulting business, not a production business.\n\nThe transition will be brutal for agencies that cannot reposition. But for solo strategists who understand AI production tools, this is the widest-open market I have seen in a decade.\n\nAre you selling production or strategy?"
+    },
+    {
+      "time": "18:00",
+      "type": "text",
+      "topic": "Static content is dead and most brands are still writing blog posts",
+      "content": "Brands are pouring money into blog content that nobody reads while video outperforms text by 3-5x on every engagement metric.\n\nI analyzed 200 B2B content strategies last quarter. The ones growing fastest had one thing in common: video as the primary format, text as the supporting format.\n\nThe old rule was \"write a blog post, maybe make a video if budget allows.\" The new rule is \"make a video first, extract text from it.\"\n\nThe reason this is now possible is that AI has collapsed the cost of video production to near zero. HTML-to-video frameworks mean a developer can generate marketing videos from data templates without ever opening editing software.\n\nThe brands that figure this out in 2026 will have a 12-18 month head start on their competitors. The ones still investing in 2,000-word blog posts as their primary content format will wonder why their traffic flatlined.\n\nThe audience already moved.\n\nWhat percentage of your content is video today?"
+    }
+  ]
+}
