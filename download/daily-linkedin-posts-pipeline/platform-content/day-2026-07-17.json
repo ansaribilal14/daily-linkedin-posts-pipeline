@@ -1,0 +1,61 @@
+{
+  "original_date": "2026-07-14",
+  "post_date": "2026-07-17",
+  "topic": "Aceternity UI",
+  "threads": [
+    {
+      "time": "08:30",
+      "content": "A hiring manager at a Series C company told me last week they stopped testing front-end developers on CSS and JavaScript fundamentals.\n\nInstead, they test on component library fluency, design system thinking, and the ability to assemble pre-built pieces into cohesive user interfaces.\n\nCan you build a complete UI using only pre-built components?"
+    },
+    {
+      "time": "16:00",
+      "content": "A Fortune 500 company I advised spent $2.1 million and 14 months building a proprietary design system. 340 components, detailed documentation, Figma libraries, the works.\n\nLast month, a 23-year-old developer on a new team rebuilt 80% of that system in 2 weeks using open source component libraries. The remaining 20% were custom components specific to their business logic.\n\nHas your company built something that open source now does for free?"
+    }
+  ],
+  "instagram": {
+    "time": "10:00",
+    "caption": "Aceternity UI gives you 200+ animated React components for free. Copy, paste, ship. No design skills required. What component took you the longest to build from scratch?\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-07.png"
+    ]
+  },
+  "facebook": {
+    "time": "11:00",
+    "caption": "Aceternity UI gives you 200+ animated React components for free. Copy, paste, ship. No design skills required. What component took you the longest to build from scratch?\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-07.png"
+    ]
+  },
+  "twitter": [
+    {
+      "time": "12:30",
+      "type": "thread",
+      "tweets": [
+        "A hiring manager at a Series C company told me last week they stopped testing front-end developers on CSS and JavaScript fundamentals.",
+        "Instead, they test on component library fluency, design system thinking, and the ability to assemble pre-built pieces into cohesive user interfaces.",
+        "This is the direction front-end development is moving. Not because fundamentals do not matter, but because the value creation has shifted upstream. Writing a button component from scratch is not a differentiator. Choosing the right component, customizing it correctly, and integrating it into a seamless user experience is.",
+        "Libraries like Aceternity UI, shadcn, and Radix are making it possible to build production-quality interfaces without writing low-level CSS or managing complex state in custom components. The code you write is increasingly glue code between well-designed building blocks.",
+        "The front-end developers who will command premium rates in 2028 are the ones who can think in systems, not in pixels. The ones who understand user psychology, information architecture, and interaction design at a level that makes their assembly work feel intentional.",
+        "The front-end craftsman is retiring. The front-end architect is arriving.\nCan you build a complete UI using only pre-built components?"
+      ]
+    },
+    {
+      "time": "18:00",
+      "type": "image",
+      "content": "Aceternity UI gives you 200+ animated React components for free",
+      "image": "carousel-routine/output/2026-07-14/carousel-branded/slide-01.png"
+    }
+  ]
+}

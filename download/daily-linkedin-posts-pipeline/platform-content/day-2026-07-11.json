@@ -1,0 +1,60 @@
+{
+  "original_date": "2026-07-08",
+  "post_date": "2026-07-11",
+  "topic": "Hyperframes",
+  "threads": [
+    {
+      "time": "08:30",
+      "content": "A $50,000 animated video project now costs under $200 to produce.\n\nI am not exaggerating. I have seen three companies replace their entire motion graphics pipeline with AI-powered HTML-to-video tools in the last 60 days.\n\nAre you selling production or strategy?"
+    },
+    {
+      "time": "16:00",
+      "content": "Brands are pouring money into blog content that nobody reads while video outperforms text by 3-5x on every engagement metric.\n\nI analyzed 200 B2B content strategies last quarter. The ones growing fastest had one thing in common: video as the primary format, text as the supporting format.\n\nThe old rule was \"write a blog post, maybe make a video if budget allows.\" The new rule is \"make a video first, extract text from it.\"\n\nWhat percentage of your content is video today?"
+    }
+  ],
+  "instagram": {
+    "time": "10:00",
+    "caption": "HTML + CSS = MP4. No camera, no editor, no rendering pipeline. AI agents just got a video factory. How would you use code-to-video? Follow for more on AI media tools.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-07.png"
+    ]
+  },
+  "facebook": {
+    "time": "11:00",
+    "caption": "HTML + CSS = MP4. No camera, no editor, no rendering pipeline. AI agents just got a video factory. How would you use code-to-video? Follow for more on AI media tools.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-07.png"
+    ]
+  },
+  "twitter": [
+    {
+      "time": "12:30",
+      "type": "thread",
+      "tweets": [
+        "A $50,000 animated video project now costs under $200 to produce.\n\nA thread \ud83e\uddf5\ud83d\udc47",
+        "The agency model was built on two things: creative talent and production labor. AI is eating the production labor part at a pace that would have seemed absurd 12 months ago. What used to require a designer, an animator, a compositor, and a render farm now requires a prompt and a template.",
+        "The agencies that will survive are not the ones with the best software. They are the ones with the best strategic thinking. Clients do not need you to make a video anymore. They need you to decide which video to make, for whom, and why.",
+        "That is a consulting business, not a production business.\nThe transition will be brutal for agencies that cannot reposition. But for solo strategists who understand AI production tools, this is the widest-open market I have seen in a decade.",
+        "Are you selling production or strategy?"
+      ]
+    },
+    {
+      "time": "18:00",
+      "type": "image",
+      "content": "HTML + CSS = MP4",
+      "image": "carousel-routine/output/2026-07-08/carousel-branded/slide-01.png"
+    }
+  ]
+}

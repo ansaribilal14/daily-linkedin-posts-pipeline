@@ -1,0 +1,62 @@
+{
+  "original_date": "2026-07-09",
+  "post_date": "2026-07-12",
+  "topic": "Sploitas",
+  "threads": [
+    {
+      "time": "08:30",
+      "content": "There is no cybersecurity talent shortage. There is a credentialing problem.\n\nI have met 14 self-taught security researchers in the past year who could out-pentest most certified professionals. None of them could get past the HR filter because they lacked a CISSP or a computer science degree.\n\nWould you rather hire someone who passed a multiple-choice test or someone who found a zero-day last week?"
+    },
+    {
+      "time": "16:00",
+      "content": "68% of developers cannot identify a SQL injection in a code review.\n\nI verified this number across three engineering teams last month. Not juniors. Mid-level and senior engineers building production systems.\n\nThe problem is not stupidity. It is that most developer education treats security as a separate discipline, something the \"security team\" handles. That model is collapsing.\n\nWhen was the last time you searched for exploits in your own dependencies?"
+    }
+  ],
+  "instagram": {
+    "time": "10:00",
+    "caption": "Attackers find exploits in seconds. Defenders take weeks. A cybersecurity search engine just leveled the playing field. How fast can your team find a vulnerability? Follow for more on cybersecurity tools.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-07.png"
+    ]
+  },
+  "facebook": {
+    "time": "11:00",
+    "caption": "Attackers find exploits in seconds. Defenders take weeks. A cybersecurity search engine just leveled the playing field. How fast can your team find a vulnerability? Follow for more on cybersecurity tools.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-07.png"
+    ]
+  },
+  "twitter": [
+    {
+      "time": "12:30",
+      "type": "thread",
+      "tweets": [
+        "There is no cybersecurity talent shortage. There is a credentialing problem.",
+        "I have met 14 self-taught security researchers in the past year who could out-pentest most certified professionals. None of them could get past the HR filter because they lacked a CISSP or a computer science degree.",
+        "Meanwhile, companies post the same \"senior security engineer, 7+ years experience, CISSP required\" job listing for 6 months and claim there is a talent crisis.",
+        "The real crisis is that the industry built a moat around itself using certifications that test memorization, not skill.",
+        "AI tools are making this moat irrelevant. A researcher with a vulnerability search engine, an AI code auditor, and solid fundamentals can now match the output of a team of three credentialed analysts.",
+        "The companies that figure this out first will have access to a talent pool ten times larger than their competitors. The ones clinging to certification requirements will keep wondering why positions stay open for months.",
+        "Would you rather hire someone who passed a multiple-choice test or someone who found a zero-day last week?"
+      ]
+    },
+    {
+      "time": "18:00",
+      "type": "image",
+      "content": "Attackers find exploits in seconds",
+      "image": "carousel-routine/output/2026-07-09/carousel-branded/slide-01.png"
+    }
+  ]
+}

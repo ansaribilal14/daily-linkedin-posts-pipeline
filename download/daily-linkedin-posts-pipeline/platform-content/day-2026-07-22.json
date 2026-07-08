@@ -1,0 +1,61 @@
+{
+  "original_date": "2026-07-19",
+  "post_date": "2026-07-22",
+  "topic": "Codebase Memory MCP (DeusData)",
+  "threads": [
+    {
+      "time": "08:30",
+      "content": "A junior developer with AI outperformed a senior on a codebase navigation task last month.\n\nI saw this at a startup in Bangalore. The task: find a business logic bug buried across 14 files in a 3-year-old codebase. The senior, 8 years experience, took 4 hours. The junior, 6 months experience, took 20 minutes with an AI agent that had the codebase indexed as a knowledge graph.\n\nThis isn't a one-off. It's a pattern.\n\nWhat defines seniority in your team?"
+    },
+    {
+      "time": "16:00",
+      "content": "Reading code will become more valuable than writing code.\n\nThis sounds backwards. Everyone's focused on AI that writes code. The narrative is about production speed.\n\nBut here's the contrarian reality. When AI writes 70% of your codebase, the critical skill flips. It's no longer about producing code. It's about evaluating it.\n\nWhen was the last time you practiced reading code you didn't write?"
+    }
+  ],
+  "instagram": {
+    "time": "10:00",
+    "caption": "Your AI coding assistant is flying blind. Codebase Memory MCP gives it a knowledge graph of your entire repo in milliseconds. Day 15 of 30.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-07.png"
+    ]
+  },
+  "facebook": {
+    "time": "11:00",
+    "caption": "Your AI coding assistant is flying blind. Codebase Memory MCP gives it a knowledge graph of your entire repo in milliseconds. Day 15 of 30.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-07.png"
+    ]
+  },
+  "twitter": [
+    {
+      "time": "12:30",
+      "type": "thread",
+      "tweets": [
+        "A junior developer with AI outperformed a senior on a codebase navigation task last month.",
+        "I saw this at a startup in Bangalore. The task: find a business logic bug buried across 14 files in a 3-year-old codebase. The senior, 8 years experience, took 4 hours. The junior, 6 months experience, took 20 minutes with an AI agent that had the codebase indexed as a knowledge graph.",
+        "This isn't a one-off. It's a pattern.\nSenior developers built careers on codebase knowledge. Knowing where things lived, why architectural decisions were made, what hidden dependencies existed. That knowledge took years to accumulate.",
+        "AI code intelligence tools compress that timeline from years to minutes. When an AI can trace a function call across your entire dependency graph in milliseconds, the \"I've been here longer so I know the code\" advantage disappears.",
+        "The new seniority metric isn't tenure. It's decision quality under ambiguity. Can you design a system that's easy to change? Can you make architectural tradeoffs with incomplete information?\nThese skills don't get commoditized by better search.",
+        "What defines seniority in your team?"
+      ]
+    },
+    {
+      "time": "18:00",
+      "type": "image",
+      "content": "Your AI coding assistant is flying blind",
+      "image": "carousel-routine/output/2026-07-19/carousel-branded/slide-01.png"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "original_date": "2026-07-15",
+  "post_date": "2026-07-18",
+  "topic": "Refero Styles",
+  "threads": [
+    {
+      "time": "08:30",
+      "content": "Design system engineers will not exist in 3 years.\n\nNot because design systems are dying. Because AI agents will maintain them.\n\nRight now companies pay senior engineers $180K+ to keep Figma tokens in sync with code. It's tedious, repetitive, and exactly the kind of work LLMs already do well.\n\nThe real shift isn't about automation. It's about who defines the rules.\n\nWhat part of your design workflow do you think AI will own first?"
+    },
+    {
+      "time": "16:00",
+      "content": "Last month I watched a startup ship an entire component library in 2 days.\n\nNot 2 weeks. 2 days. The secret wasn't a bigger team or better tools. They wrote their design tokens as structured markdown and fed them directly to an AI coding agent.\n\nThis is the shift nobody talks about. The format of your knowledge determines how fast AI can use it.\n\nAre you writing your expertise down in a way machines can read?"
+    }
+  ],
+  "instagram": {
+    "time": "10:00",
+    "caption": "Your design system is useless if AI can't read it. DESIGN.md files are the bridge between your brand and AI agents. Day 11 of 30.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-07.png"
+    ]
+  },
+  "facebook": {
+    "time": "11:00",
+    "caption": "Your design system is useless if AI can't read it. DESIGN.md files are the bridge between your brand and AI agents. Day 11 of 30.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-07.png"
+    ]
+  },
+  "twitter": [
+    {
+      "time": "12:30",
+      "type": "thread",
+      "tweets": [
+        "Design system engineers will not exist in 3 years.\nNot because design systems are dying. Because AI agents will maintain them.",
+        "Right now companies pay senior engineers $180K+ to keep Figma tokens in sync with code. It's tedious, repetitive, and exactly the kind of work LLMs already do well.\nThe real shift isn't about automation. It's about who defines the rules.",
+        "When AI can read, interpret, and apply your design language automatically, the bottleneck moves upstream. The person who decides WHAT the design system should be becomes more valuable than the person who maintains it.",
+        "Strategic designers who think in systems and constraints will thrive. Token-pushers won't.",
+        "The actionable move: stop framing your value around implementation speed. Start framing it around design decision quality. Can you explain why your spacing scale is 4px and not 5px? Can you defend your color contrast ratios with accessibility math?",
+        "That's the work AI can't do yet. And it might be the most valuable design skill of 2027.\nWhat part of your design workflow do you think AI will own first?"
+      ]
+    },
+    {
+      "time": "18:00",
+      "type": "image",
+      "content": "Your design system is useless if AI can't read it",
+      "image": "carousel-routine/output/2026-07-15/carousel-branded/slide-01.png"
+    }
+  ]
+}

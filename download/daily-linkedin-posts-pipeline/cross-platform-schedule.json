@@ -1,0 +1,1138 @@
+[
+  {
+    "date": "2026-07-08",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Why workflow coordination is the next job AI eats",
+    "content": "The job most vulnerable to AI is not junior coding. It is the person who coordinates work between systems.\n\nI have watched three companies in the last quarter replace internal \"integration specialists\" with automated workflow engines. These were people earning $85,000-$120,000 pulling data from CRM into email tools into analytics dashboards.\n\nWhat is one workflow in your job that could run itself?"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Trigger.dev",
+    "content": "Most AI workflows are held together by duct tape and prayers. Here's what open source is doing about it. How are you handling AI task reliability? Follow for more on AI developer tools.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-08",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Trigger.dev",
+    "content": "Most AI workflows are held together by duct tape and prayers. Here's what open source is doing about it. How are you handling AI task reliability? Follow for more on AI developer tools.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-08",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "Why workflow coordination is the next job AI eats",
+    "content": [
+      "The job most vulnerable to AI is not junior coding. It is the person who coordinates work between systems.",
+      "I have watched three companies in the last quarter replace internal \"integration specialists\" with automated workflow engines. These were people earning $85,000-$120,000 pulling data from CRM into email tools into analytics dashboards.",
+      "AI workflow platforms now handle that orchestration in real time, with built-in error handling and retries that humans simply cannot match at scale.",
+      "The people who survived were the ones who could define what the workflow should accomplish, not the ones who manually moved data between systems. The skill that matters now is workflow thinking: understanding inputs, outputs, failure states, and escalation paths.",
+      "If your entire value is \"I know how to connect Tool A to Tool B,\" you are sitting on borrowed time.\nThe question is not whether AI will eat coordination work. It already has. The question is whether you are designing the workflows or being replaced by them.",
+      "What is one workflow in your job that could run itself?"
+    ]
+  },
+  {
+    "date": "2026-07-08",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "The three developer skills losing value right now",
+    "content": "Which of your developer skills will be worthless in 18 months?\n\nI have been tracking hiring patterns across 47 AI-native startups. Three skills are dropping in job postings faster than any others.\n\nFirst, writing custom retry and queue logic. Open source workflow engines handle this better than any hand-rolled solution.\n\nWhich of these three skills are you still leaning on?"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Trigger.dev (slide)",
+    "content": "Most AI workflows are held together by duct tape and prayers",
+    "images": [
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-09",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Why the best developers will stop reading code",
+    "content": "Last month a senior engineer told me she stopped reading her team's pull requests entirely. She reads the AI-generated summaries instead.\n\nI almost dismissed her until I saw her team's velocity numbers: 3.2x output with 28% fewer bugs than the quarter before.\n\nWhat is the last pull request you genuinely needed to read line by line?"
+  },
+  {
+    "date": "2026-07-09",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Graphify",
+    "content": "The \"10x developer who knows every line\" is being replaced by the developer who gives AI perfect context. Which side are you on? Follow for more on AI developer tools.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-09",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Graphify",
+    "content": "The \"10x developer who knows every line\" is being replaced by the developer who gives AI perfect context. Which side are you on? Follow for more on AI developer tools.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-09",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "Why the best developers will stop reading code",
+    "content": [
+      "Last month a senior engineer told me she stopped reading her team's pull requests entirely.\n\nA thread \ud83e\uddf5\ud83d\udc47",
+      "She did not stop caring about quality. She stopped doing the part of her job that a machine does more reliably. Reading 400-line diffs and catching a missing null check is pattern matching. AI excels at pattern matching.",
+      "What she does now is architecture review: asking whether the right problem is being solved, whether the abstractions hold, whether the system will survive the next pivot.\nThat is judgment. And judgment scales in ways that line-by-line reading never could.",
+      "The developers who will thrive in the next two years are not the ones who read the most code. They are the ones who ask the hardest questions about the code someone else wrote.\nWhat is the last pull request you genuinely needed to read line by line?"
+    ]
+  },
+  {
+    "date": "2026-07-09",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "The enterprise cost of AI hallucinations nobody calculates",
+    "content": "87% of enterprises using AI coding tools have no system to measure hallucination cost.\n\nI asked 23 engineering leaders last month. Only three could tell me how much time their teams spent verifying AI-generated code.\n\nHow much time does your team spend fixing AI mistakes?"
+  },
+  {
+    "date": "2026-07-09",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Graphify (slide)",
+    "content": "The \"10x developer who knows every line\" is being replaced by the developer who gives AI perfect context",
+    "images": [
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Video editing jobs are not dying. They are splitting.",
+    "content": "Everyone says AI will kill video editing jobs. They are wrong.\n\nWhat AI is doing is splitting one job into two completely different careers.\n\nThe mechanical editor who syncs audio, adjusts levels, cuts dead air, and applies standard color grades? That role is 80% automated today. But the creative editor who understands pacing, emotional rhythm, and brand storytelling? Their market value just went up. Way up."
+  },
+  {
+    "date": "2026-07-10",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Video Use Skill",
+    "content": "Video editing agents are eating the boring 80% of post-production work. The creative 20% just became more valuable. What would you automate first? Follow for more on AI media tools.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Video Use Skill",
+    "content": "Video editing agents are eating the boring 80% of post-production work. The creative 20% just became more valuable. What would you automate first? Follow for more on AI media tools.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "Video editing jobs are not dying. They are splitting.",
+    "content": [
+      "Everyone says AI will kill video editing jobs. They are wrong.\nWhat AI is doing is splitting one job into two completely different careers.",
+      "The mechanical editor who syncs audio, adjusts levels, cuts dead air, and applies standard color grades? That role is 80% automated today. But the creative editor who understands pacing, emotional rhythm, and brand storytelling? Their market value just went up. Way up.",
+      "I know three editors who tripled their rates in the last year by positioning themselves as \"creative directors\" who use AI for execution. They now review AI output and make the 5-6 creative decisions that actually move the needle.",
+      "The volume of video content brands need is exploding. The demand for creative taste is following. What is disappearing is demand for manual labor disguised as creative work.",
+      "If your entire skill set is \"I know Premiere Pro really well,\" you are in trouble. If your skill set is \"I know what makes a video feel right,\" you are entering the best market of your career.\nWhich side of the split are you on?"
+    ]
+  },
+  {
+    "date": "2026-07-10",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Why every knowledge worker needs to think in video by 2027",
+    "content": "By 2027, 82% of internet traffic will be video. Yet 94% of knowledge workers have zero video production skills.\n\nThat gap is the single largest career opportunity I see right now.\n\nI do not mean you need to become a filmmaker. I mean the ability to communicate ideas visually, even approximately, is becoming as fundamental as email literacy was in 2005.\n\nWhat is one thing you explained in text today that would have been better as video?"
+  },
+  {
+    "date": "2026-07-10",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Video Use Skill (slide)",
+    "content": "Video editing agents are eating the boring 80% of post-production work",
+    "images": [
+      "carousel-routine/output/2026-07-07/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "The agency model is cracking and most do not see it",
+    "content": "A $50,000 animated video project now costs under $200 to produce.\n\nI am not exaggerating. I have seen three companies replace their entire motion graphics pipeline with AI-powered HTML-to-video tools in the last 60 days.\n\nAre you selling production or strategy?"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Hyperframes",
+    "content": "HTML + CSS = MP4. No camera, no editor, no rendering pipeline. AI agents just got a video factory. How would you use code-to-video? Follow for more on AI media tools.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Hyperframes",
+    "content": "HTML + CSS = MP4. No camera, no editor, no rendering pipeline. AI agents just got a video factory. How would you use code-to-video? Follow for more on AI media tools.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "The agency model is cracking and most do not see it",
+    "content": [
+      "A $50,000 animated video project now costs under $200 to produce.\n\nA thread \ud83e\uddf5\ud83d\udc47",
+      "The agency model was built on two things: creative talent and production labor. AI is eating the production labor part at a pace that would have seemed absurd 12 months ago. What used to require a designer, an animator, a compositor, and a render farm now requires a prompt and a template.",
+      "The agencies that will survive are not the ones with the best software. They are the ones with the best strategic thinking. Clients do not need you to make a video anymore. They need you to decide which video to make, for whom, and why.",
+      "That is a consulting business, not a production business.\nThe transition will be brutal for agencies that cannot reposition. But for solo strategists who understand AI production tools, this is the widest-open market I have seen in a decade.",
+      "Are you selling production or strategy?"
+    ]
+  },
+  {
+    "date": "2026-07-11",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Static content is dead and most brands are still writing blog posts",
+    "content": "Brands are pouring money into blog content that nobody reads while video outperforms text by 3-5x on every engagement metric.\n\nI analyzed 200 B2B content strategies last quarter. The ones growing fastest had one thing in common: video as the primary format, text as the supporting format.\n\nThe old rule was \"write a blog post, maybe make a video if budget allows.\" The new rule is \"make a video first, extract text from it.\"\n\nWhat percentage of your content is video today?"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Hyperframes (slide)",
+    "content": "HTML + CSS = MP4",
+    "images": [
+      "carousel-routine/output/2026-07-08/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-12",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "The cybersecurity talent gap is a myth",
+    "content": "There is no cybersecurity talent shortage. There is a credentialing problem.\n\nI have met 14 self-taught security researchers in the past year who could out-pentest most certified professionals. None of them could get past the HR filter because they lacked a CISSP or a computer science degree.\n\nWould you rather hire someone who passed a multiple-choice test or someone who found a zero-day last week?"
+  },
+  {
+    "date": "2026-07-12",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Sploitas",
+    "content": "Attackers find exploits in seconds. Defenders take weeks. A cybersecurity search engine just leveled the playing field. How fast can your team find a vulnerability? Follow for more on cybersecurity tools.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-12",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Sploitas",
+    "content": "Attackers find exploits in seconds. Defenders take weeks. A cybersecurity search engine just leveled the playing field. How fast can your team find a vulnerability? Follow for more on cybersecurity tools.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-12",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "The cybersecurity talent gap is a myth",
+    "content": [
+      "There is no cybersecurity talent shortage. There is a credentialing problem.",
+      "I have met 14 self-taught security researchers in the past year who could out-pentest most certified professionals. None of them could get past the HR filter because they lacked a CISSP or a computer science degree.",
+      "Meanwhile, companies post the same \"senior security engineer, 7+ years experience, CISSP required\" job listing for 6 months and claim there is a talent crisis.",
+      "The real crisis is that the industry built a moat around itself using certifications that test memorization, not skill.",
+      "AI tools are making this moat irrelevant. A researcher with a vulnerability search engine, an AI code auditor, and solid fundamentals can now match the output of a team of three credentialed analysts.",
+      "The companies that figure this out first will have access to a talent pool ten times larger than their competitors. The ones clinging to certification requirements will keep wondering why positions stay open for months.",
+      "Would you rather hire someone who passed a multiple-choice test or someone who found a zero-day last week?"
+    ]
+  },
+  {
+    "date": "2026-07-12",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Why offensive security skills will be mandatory for all developers by 2028",
+    "content": "68% of developers cannot identify a SQL injection in a code review.\n\nI verified this number across three engineering teams last month. Not juniors. Mid-level and senior engineers building production systems.\n\nThe problem is not stupidity. It is that most developer education treats security as a separate discipline, something the \"security team\" handles. That model is collapsing.\n\nWhen was the last time you searched for exploits in your own dependencies?"
+  },
+  {
+    "date": "2026-07-12",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Sploitas (slide)",
+    "content": "Attackers find exploits in seconds",
+    "images": [
+      "carousel-routine/output/2026-07-09/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Why 67% of enterprise AI deployments fail before month 4",
+    "content": "67% of enterprise AI tools deployed in Q1 2025 were abandoned by Q3.\n\nI tracked this across 40 companies in my network. The reason was never the technology.\n\nIt was the data policy.\n\nHow long did your company's last AI tool survive before someone asked about data?"
+  },
+  {
+    "date": "2026-07-13",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Openwork",
+    "content": "Claude Cowork charges per seat. Openwork charges nothing and you keep your data. The open source enterprise AI stack is forming faster than anyone predicted. Who controls your team's AI collaboration data?\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Openwork",
+    "content": "Claude Cowork charges per seat. Openwork charges nothing and you keep your data. The open source enterprise AI stack is forming faster than anyone predicted. Who controls your team's AI collaboration data?\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "Why 67% of enterprise AI deployments fail before month 4",
+    "content": [
+      "67% of enterprise AI tools deployed in Q1 2025 were abandoned by Q3.\nI tracked this across 40 companies in my network. The reason was never the technology.\nIt was the data policy.",
+      "Most companies realize 90 days in that their proprietary code, customer data, and strategic documents are flowing through a third-party API with terms of service that allow model training. Legal panics. Security panics. The tool gets shut down.",
+      "The few AI deployments that survive month 4 share one trait: they run on infrastructure the company controls. Not because open source is ideologically better, but because the compliance team will not sign off on anything else.",
+      "This is creating a massive bifurcation. Companies that deployed closed AI tools first now face a costly migration to self-hosted alternatives. Companies that waited are skipping directly to open source deployments that satisfy legal from day one.",
+      "The lesson is clear. In enterprise AI, the data policy matters more than the model quality. A slightly worse model you can actually deploy will always beat a superior model your legal team blocks.",
+      "How long did your company's last AI tool survive before someone asked about data?"
+    ]
+  },
+  {
+    "date": "2026-07-13",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Closed AI vendors are structurally incentivized to become your competitor",
+    "content": "What happens when your AI vendor becomes your competitor?\n\nI watched a Series B startup spend $180K annually on an AI coding assistant last year. By December, that same vendor launched a product competing directly with the startup's core offering, trained partly on the startup's usage patterns.\n\nWould you trust a vendor who could become your next competitor?"
+  },
+  {
+    "date": "2026-07-13",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Openwork (slide)",
+    "content": "Claude Cowork charges per seat",
+    "images": [
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "QA engineers have 18 months before their role fundamentally changes",
+    "content": "A QA lead managing 9 people at a fintech company told me her ticket backlog dropped from 340 to 12 in six weeks after deploying autonomous testing.\n\nHer board is now asking why she needs 9 people.\n\nI have heard the same pattern from 6 different QA leads in the past month. Autonomous testing platforms do not replace QA engineers overnight. They replace the demand for 80% of what QA teams do.\n\nIf you are in QA right now, what is your plan for 2028?"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Testsprite",
+    "content": "Testsprite writes tests, runs them, and fixes failures, all while you sleep. Autonomous testing is not coming, it shipped. What percentage of your engineering time goes to testing?\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Testsprite",
+    "content": "Testsprite writes tests, runs them, and fixes failures, all while you sleep. Autonomous testing is not coming, it shipped. What percentage of your engineering time goes to testing?\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "QA engineers have 18 months before their role fundamentally changes",
+    "content": [
+      "A QA lead managing 9 people at a fintech company told me her ticket backlog dropped from 340 to 12 in six weeks after deploying autonomous testing.\nHer board is now asking why she needs 9 people.",
+      "I have heard the same pattern from 6 different QA leads in the past month. Autonomous testing platforms do not replace QA engineers overnight. They replace the demand for 80% of what QA teams do.",
+      "The writing is on the wall for manual test case creation, regression testing, and test maintenance. These are exactly the tasks that AI handles with higher coverage and faster execution than any human team.",
+      "QA engineers who survive this transition will be the ones who move upstream into test strategy, quality architecture, and AI pipeline oversight. The ones who keep writing test cases by hand will be managing smaller and smaller teams until there is nothing left to manage.",
+      "The 18-month window is how long autonomous testing tools need to reach enterprise maturity.\nIf you are in QA right now, what is your plan for 2028?"
+    ]
+  },
+  {
+    "date": "2026-07-14",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "The last 10% of autonomous development is the hardest problem in AI",
+    "content": "Everyone is focused on AI writing code. The real bottleneck is AI verifying that code works.\n\nI have seen AI coding assistants generate functional applications in hours. Then a human spends days testing, debugging edge cases, and catching regressions. The autonomous part of autonomous development is not the writing. It is the validation.\n\nWhat is the one type of bug your team still catches manually?"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Testsprite (slide)",
+    "content": "Testsprite writes tests, runs them, and fixes failures, all while you sleep",
+    "images": [
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "89% of content will be generated programmatically by 2028",
+    "content": "I ran an experiment last month. I gave a developer a dataset of 500 customer success metrics and asked them to create a personalized video for each one using code.\n\nThey delivered all 500 videos in 4 hours.\n\nCould your current content be generated from a template and a spreadsheet?"
+  },
+  {
+    "date": "2026-07-15",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "html-video (nexu-io/html-anything)",
+    "content": "html-video turns code into MP4s, locally, for free. Coding agents can now ship finished video products, not just software. What would you automate if video was just another output format?\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "html-video (nexu-io/html-anything)",
+    "content": "html-video turns code into MP4s, locally, for free. Coding agents can now ship finished video products, not just software. What would you automate if video was just another output format?\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "89% of content will be generated programmatically by 2028",
+    "content": [
+      "I ran an experiment last month.\n\nA thread \ud83e\uddf5\ud83d\udc47",
+      "A video production agency quoted $75,000 for the same project with a 3-week turnaround. The developer used programmatic video tools, templates, and data merging. The quality was not quite agency-level, but it was 94% of the way there for 0.3% of the cost.",
+      "This is the shift that most marketing teams are not prepared for. Programmatic content generation is moving from experimental to standard operating procedure. The companies that figure this out first will produce 10-50x more content than their competitors at a fraction of the cost.",
+      "The skill that matters is not video editing or graphic design. It is thinking in templates, data structures, and automation pipelines. The content creators of 2028 will write code, not timelines.",
+      "Every developer who learns programmatic media production today is acquiring a skill that will be in demand across every industry.\nCould your current content be generated from a template and a spreadsheet?"
+    ]
+  },
+  {
+    "date": "2026-07-15",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Agents that ship finished products, not just code",
+    "content": "The most under-discussed shift in AI is not that agents can write code. It is that agents can now ship finished products.\n\nThink about what programmatic video tools represent in the broader picture. A coding agent can receive a prompt, write HTML and CSS, generate a video file, and deliver a finished media product. No developer review. No deployment pipeline. No QA cycle. Prompt in, MP4 out.\n\nWhat product could an agent ship for you today if it could output finished media?"
+  },
+  {
+    "date": "2026-07-15",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "html-video (nexu-io/html-anything) (slide)",
+    "content": "html-video turns code into MP4s, locally, for free",
+    "images": [
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "The $300B graphic design industry just lost its pricing power",
+    "content": "A design agency I know charged $12,000 per landing page in 2024. Last month they quoted $3,000 for the same deliverable. They told me they had no choice.\n\nTheir clients are using AI design tools to generate first drafts in 30 seconds. The agency is no longer selling creation. They are selling revision and refinement. That is a much smaller business.\n\nWhen was the last time a client paid you for your taste, not your time?"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Aura.build",
+    "content": "Aura.build generates landing pages in seconds and exports to HTML and Figma. The cost of going from idea to live page just hit zero. How many landing pages would you test if each one was free?\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Aura.build",
+    "content": "Aura.build generates landing pages in seconds and exports to HTML and Figma. The cost of going from idea to live page just hit zero. How many landing pages would you test if each one was free?\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "The $300B graphic design industry just lost its pricing power",
+    "content": [
+      "A design agency I know charged $12,000 per landing page in 2024. Last month they quoted $3,000 for the same deliverable. They told me they had no choice.",
+      "Their clients are using AI design tools to generate first drafts in 30 seconds. The agency is no longer selling creation. They are selling revision and refinement. That is a much smaller business.",
+      "This is happening across every design discipline. Logo design, social media graphics, email templates, presentation decks. The tools are not quite at professional quality, but they are close enough that clients question every dollar spent on human design.",
+      "The total addressable market for graphic design services was estimated at $300 billion globally. AI design tools are compressing that number fast, not by eliminating the need for design but by making the baseline free.",
+      "Designers who adapt will move into creative direction, brand strategy, and AI output curation. The ones who keep selling pixel-pushing will find their rates cut by 60-80% over the next two years.\nThe design skill that retains value is taste, not technique.",
+      "When was the last time a client paid you for your taste, not your time?"
+    ]
+  },
+  {
+    "date": "2026-07-16",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "One person with AI tools now outproduces an entire marketing team",
+    "content": "I met a solo founder last week who runs a SaaS with 4,200 users and $42K MRR. She handles all marketing herself using AI design and content tools.\n\nHer monthly marketing output: 12 landing pages, 40 social posts, 8 email campaigns, and 4 product demo videos. All created by her, with AI, in about 15 hours per week.\n\nCould you do your entire team's job with AI tools if you had to?"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Aura.build (slide)",
+    "content": "Aura",
+    "images": [
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Front-end development is becoming component assembly",
+    "content": "A hiring manager at a Series C company told me last week they stopped testing front-end developers on CSS and JavaScript fundamentals.\n\nInstead, they test on component library fluency, design system thinking, and the ability to assemble pre-built pieces into cohesive user interfaces.\n\nCan you build a complete UI using only pre-built components?"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Aceternity UI",
+    "content": "Aceternity UI gives you 200+ animated React components for free. Copy, paste, ship. No design skills required. What component took you the longest to build from scratch?\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Aceternity UI",
+    "content": "Aceternity UI gives you 200+ animated React components for free. Copy, paste, ship. No design skills required. What component took you the longest to build from scratch?\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "Front-end development is becoming component assembly",
+    "content": [
+      "A hiring manager at a Series C company told me last week they stopped testing front-end developers on CSS and JavaScript fundamentals.",
+      "Instead, they test on component library fluency, design system thinking, and the ability to assemble pre-built pieces into cohesive user interfaces.",
+      "This is the direction front-end development is moving. Not because fundamentals do not matter, but because the value creation has shifted upstream. Writing a button component from scratch is not a differentiator. Choosing the right component, customizing it correctly, and integrating it into a seamless user experience is.",
+      "Libraries like Aceternity UI, shadcn, and Radix are making it possible to build production-quality interfaces without writing low-level CSS or managing complex state in custom components. The code you write is increasingly glue code between well-designed building blocks.",
+      "The front-end developers who will command premium rates in 2028 are the ones who can think in systems, not in pixels. The ones who understand user psychology, information architecture, and interaction design at a level that makes their assembly work feel intentional.",
+      "The front-end craftsman is retiring. The front-end architect is arriving.\nCan you build a complete UI using only pre-built components?"
+    ]
+  },
+  {
+    "date": "2026-07-17",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "A $2M design systems project replaced by a 23-year-old in 2 weeks",
+    "content": "A Fortune 500 company I advised spent $2.1 million and 14 months building a proprietary design system. 340 components, detailed documentation, Figma libraries, the works.\n\nLast month, a 23-year-old developer on a new team rebuilt 80% of that system in 2 weeks using open source component libraries. The remaining 20% were custom components specific to their business logic.\n\nHas your company built something that open source now does for free?"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Aceternity UI (slide)",
+    "content": "Aceternity UI gives you 200+ animated React components for free",
+    "images": [
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Design system engineers will be replaced by AI agents",
+    "content": "Design system engineers will not exist in 3 years.\n\nNot because design systems are dying. Because AI agents will maintain them.\n\nRight now companies pay senior engineers $180K+ to keep Figma tokens in sync with code. It's tedious, repetitive, and exactly the kind of work LLMs already do well.\n\nThe real shift isn't about automation. It's about who defines the rules.\n\nWhat part of your design workflow do you think AI will own first?"
+  },
+  {
+    "date": "2026-07-18",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Refero Styles",
+    "content": "Your design system is useless if AI can't read it. DESIGN.md files are the bridge between your brand and AI agents. Day 11 of 30.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Refero Styles",
+    "content": "Your design system is useless if AI can't read it. DESIGN.md files are the bridge between your brand and AI agents. Day 11 of 30.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "Design system engineers will be replaced by AI agents",
+    "content": [
+      "Design system engineers will not exist in 3 years.\nNot because design systems are dying. Because AI agents will maintain them.",
+      "Right now companies pay senior engineers $180K+ to keep Figma tokens in sync with code. It's tedious, repetitive, and exactly the kind of work LLMs already do well.\nThe real shift isn't about automation. It's about who defines the rules.",
+      "When AI can read, interpret, and apply your design language automatically, the bottleneck moves upstream. The person who decides WHAT the design system should be becomes more valuable than the person who maintains it.",
+      "Strategic designers who think in systems and constraints will thrive. Token-pushers won't.",
+      "The actionable move: stop framing your value around implementation speed. Start framing it around design decision quality. Can you explain why your spacing scale is 4px and not 5px? Can you defend your color contrast ratios with accessibility math?",
+      "That's the work AI can't do yet. And it might be the most valuable design skill of 2027.\nWhat part of your design workflow do you think AI will own first?"
+    ]
+  },
+  {
+    "date": "2026-07-18",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Structured knowledge formats determine AI leverage",
+    "content": "Last month I watched a startup ship an entire component library in 2 days.\n\nNot 2 weeks. 2 days. The secret wasn't a bigger team or better tools. They wrote their design tokens as structured markdown and fed them directly to an AI coding agent.\n\nThis is the shift nobody talks about. The format of your knowledge determines how fast AI can use it.\n\nAre you writing your expertise down in a way machines can read?"
+  },
+  {
+    "date": "2026-07-18",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Refero Styles (slide)",
+    "content": "Your design system is useless if AI can't read it",
+    "images": [
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-19",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "AI pattern recognition is reshaping UX careers",
+    "content": "Who will need UX designers when AI has seen 200,000+ design patterns?\n\nThat number isn't hypothetical. Tools already index hundreds of thousands of real production interfaces. AI models trained on this data can generate UI that follows proven patterns without a human designer in the loop.\n\nWhat's one user behavior you understand that no AI could?"
+  },
+  {
+    "date": "2026-07-19",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Mobbin",
+    "content": "200,000+ real app designs. Categorized. Searchable. Free to browse. Mobbin is the design reference library I wish existed 5 years ago. Day 12 of 30.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-19",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Mobbin",
+    "content": "200,000+ real app designs. Categorized. Searchable. Free to browse. Mobbin is the design reference library I wish existed 5 years ago. Day 12 of 30.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-19",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "AI pattern recognition is reshaping UX careers",
+    "content": [
+      "Who will need UX designers when AI has seen 200,000+ design patterns?",
+      "That number isn't hypothetical. Tools already index hundreds of thousands of real production interfaces. AI models trained on this data can generate UI that follows proven patterns without a human designer in the loop.",
+      "Here's the uncomfortable truth. Most UX work isn't original design. It's pattern matching. You look at the problem, search your mental library of solutions, and apply what fits. AI does the same thing but with a library 1000x larger.",
+      "The designers who survive won't be the best at Figma. They'll be the best at understanding human behavior. The ones who can articulate WHY a pattern works in this specific context, not just THAT it works.",
+      "Empathy research, user interviews, behavioral psychology. These are the skills that separate strategic designers from pixel pushers. AI can match patterns. It can't sit across from a frustrated user and read the thing they're not saying.",
+      "The gap isn't closing on that skill set. It's widening.\nWhat's one user behavior you understand that no AI could?"
+    ]
+  },
+  {
+    "date": "2026-07-19",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "The convergence of UI design patterns",
+    "content": "94% of mobile apps use the same 12 navigation patterns.\n\nI found this number buried in a UX research paper last year and it hasn't left my head since. We talk about innovation in design, but the industry has already converged on a remarkably small set of proven solutions.\n\nThis is actually great news for AI.\n\nAre you optimizing within constraints or defining them?"
+  },
+  {
+    "date": "2026-07-19",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Mobbin (slide)",
+    "content": "200,000+ real app designs",
+    "images": [
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "AI can generate layouts but not taste",
+    "content": "AI can generate 50 website layouts in 5 minutes.\n\nNot one of them will make you feel anything.\n\nThis is the creative gap nobody wants to discuss. AI design tools have gotten fast, cheap, and technically competent. What they haven't gotten is taste.\n\nWhat's the last website that genuinely surprised you?"
+  },
+  {
+    "date": "2026-07-20",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Recent (formerly Godly)",
+    "content": "The internet is full of boring websites. Recent (formerly Godly) curates the ones that aren't. Use it to reset your taste. Day 13 of 30.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Recent (formerly Godly)",
+    "content": "The internet is full of boring websites. Recent (formerly Godly) curates the ones that aren't. Use it to reset your taste. Day 13 of 30.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "AI can generate layouts but not taste",
+    "content": [
+      "AI can generate 50 website layouts in 5 minutes.\n\nA thread \ud83e\uddf5\ud83d\udc47",
+      "Taste is the ability to choose between good and great. It comes from seeing thousands of examples, developing preferences, and understanding cultural context. It's accumulated slowly and can't be downloaded.",
+      "Right now, AI optimizes for \"correct.\" Clean hierarchy, proper contrast, responsive grids. All technically sound. All completely forgettable.",
+      "The designers winning in 2026 are using AI for speed and their own taste for direction. They generate 50 options in 5 minutes, then spend 2 hours selecting and refining the one that has soul.",
+      "The danger isn't that AI replaces creative judgment. The danger is that teams stop exercising theirs. When you accept the first AI output because it's \"good enough,\" you're training yourself out of the exact skill that makes you irreplaceable.",
+      "Use AI to produce volume. Use your taste to make choices.\nWhat's the last website that genuinely surprised you?"
+    ]
+  },
+  {
+    "date": "2026-07-20",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Taste as the last human moat in design",
+    "content": "A creative director told me she stopped giving her team AI tools for 2 weeks.\n\nThe reason? They'd stopped pushing back on bad ideas. Every design review turned into \"let me ask the AI\" instead of \"here's why this doesn't work.\" The critical thinking muscle had atrophied in 3 months.\n\nAre you exercising judgment or just accepting output?"
+  },
+  {
+    "date": "2026-07-20",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Recent (formerly Godly) (slide)",
+    "content": "The internet is full of boring websites",
+    "images": [
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Marketing agencies losing ground to AI-powered clients",
+    "content": "Marketing agencies should be terrified of their own clients.\n\nNot because clients are getting smarter. Because clients now have AI tools that can do 80% of what agencies sell. Website builds, landing pages, email templates, social graphics. All generated in minutes for pennies.\n\nThe $50K website project is collapsing. Clients know it. Agencies know it. Nobody wants to say it out loud.\n\nAre you selling production or strategy?"
+  },
+  {
+    "date": "2026-07-21",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "10x AI Website Builder",
+    "content": "AI website builders crossed the production-quality threshold. 10x generates sitemaps, wireframes, style guides, and full pages from one prompt. Day 14 of 30.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "10x AI Website Builder",
+    "content": "AI website builders crossed the production-quality threshold. 10x generates sitemaps, wireframes, style guides, and full pages from one prompt. Day 14 of 30.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "Marketing agencies losing ground to AI-powered clients",
+    "content": [
+      "Marketing agencies should be terrified of their own clients.",
+      "Not because clients are getting smarter. Because clients now have AI tools that can do 80% of what agencies sell. Website builds, landing pages, email templates, social graphics. All generated in minutes for pennies.",
+      "The $50K website project is collapsing. Clients know it. Agencies know it. Nobody wants to say it out loud.",
+      "The agencies that will survive are repositioning right now. They're selling strategy, not production. They're selling audience understanding, market positioning, brand narrative. The things AI can generate a draft for but can't originate.",
+      "Production skills are depreciating at roughly 40% per year. That's not a guess, it's what the pricing data shows. What was worth $5K last year now costs $500 or is free.",
+      "The smartest marketers I know are building AI-first workflows and charging for decisions, not deliverables. \"I'll tell you exactly what to build and why\" is worth more than \"I'll build it for you.\"",
+      "The question isn't whether AI will eat marketing production. It already has. The question is whether you're selling the thing AI can't do.\nAre you selling production or strategy?"
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Web developers who build marketing sites are running out of time",
+    "content": "What happens to the 2 million web developers who build marketing sites?\n\nAI website builders can now generate a complete, styled, responsive marketing website from a single prompt. Sitemaps, wireframes, style guides, and production-ready code. In minutes.\n\nWhere does your current work sit on the complexity spectrum?"
+  },
+  {
+    "date": "2026-07-21",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "10x AI Website Builder (slide)",
+    "content": "AI website builders crossed the production-quality threshold",
+    "images": [
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-01.png"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "time": "08:30",
+    "platform": "threads",
+    "type": "text",
+    "topic": "AI code intelligence collapses traditional seniority timelines",
+    "content": "A junior developer with AI outperformed a senior on a codebase navigation task last month.\n\nI saw this at a startup in Bangalore. The task: find a business logic bug buried across 14 files in a 3-year-old codebase. The senior, 8 years experience, took 4 hours. The junior, 6 months experience, took 20 minutes with an AI agent that had the codebase indexed as a knowledge graph.\n\nThis isn't a one-off. It's a pattern.\n\nWhat defines seniority in your team?"
+  },
+  {
+    "date": "2026-07-22",
+    "time": "10:00",
+    "platform": "instagram",
+    "type": "carousel",
+    "topic": "Codebase Memory MCP (DeusData)",
+    "content": "Your AI coding assistant is flying blind. Codebase Memory MCP gives it a knowledge graph of your entire repo in milliseconds. Day 15 of 30.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "time": "11:00",
+    "platform": "facebook",
+    "type": "carousel",
+    "topic": "Codebase Memory MCP (DeusData)",
+    "content": "Your AI coding assistant is flying blind. Codebase Memory MCP gives it a knowledge graph of your entire repo in milliseconds. Day 15 of 30.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-07.png"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "time": "12:30",
+    "platform": "twitter",
+    "type": "thread",
+    "topic": "AI code intelligence collapses traditional seniority timelines",
+    "content": [
+      "A junior developer with AI outperformed a senior on a codebase navigation task last month.",
+      "I saw this at a startup in Bangalore. The task: find a business logic bug buried across 14 files in a 3-year-old codebase. The senior, 8 years experience, took 4 hours. The junior, 6 months experience, took 20 minutes with an AI agent that had the codebase indexed as a knowledge graph.",
+      "This isn't a one-off. It's a pattern.\nSenior developers built careers on codebase knowledge. Knowing where things lived, why architectural decisions were made, what hidden dependencies existed. That knowledge took years to accumulate.",
+      "AI code intelligence tools compress that timeline from years to minutes. When an AI can trace a function call across your entire dependency graph in milliseconds, the \"I've been here longer so I know the code\" advantage disappears.",
+      "The new seniority metric isn't tenure. It's decision quality under ambiguity. Can you design a system that's easy to change? Can you make architectural tradeoffs with incomplete information?\nThese skills don't get commoditized by better search.",
+      "What defines seniority in your team?"
+    ]
+  },
+  {
+    "date": "2026-07-22",
+    "time": "16:00",
+    "platform": "threads",
+    "type": "text",
+    "topic": "Reading code will become more valuable than writing code",
+    "content": "Reading code will become more valuable than writing code.\n\nThis sounds backwards. Everyone's focused on AI that writes code. The narrative is about production speed.\n\nBut here's the contrarian reality. When AI writes 70% of your codebase, the critical skill flips. It's no longer about producing code. It's about evaluating it.\n\nWhen was the last time you practiced reading code you didn't write?"
+  },
+  {
+    "date": "2026-07-22",
+    "time": "18:00",
+    "platform": "twitter",
+    "type": "image",
+    "topic": "Codebase Memory MCP (DeusData) (slide)",
+    "content": "Your AI coding assistant is flying blind",
+    "images": [
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-01.png"
+    ]
+  }
+]

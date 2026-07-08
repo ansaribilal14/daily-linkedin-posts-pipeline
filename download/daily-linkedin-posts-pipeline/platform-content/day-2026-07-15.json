@@ -1,0 +1,60 @@
+{
+  "original_date": "2026-07-12",
+  "post_date": "2026-07-15",
+  "topic": "html-video (nexu-io/html-anything)",
+  "threads": [
+    {
+      "time": "08:30",
+      "content": "I ran an experiment last month. I gave a developer a dataset of 500 customer success metrics and asked them to create a personalized video for each one using code.\n\nThey delivered all 500 videos in 4 hours.\n\nCould your current content be generated from a template and a spreadsheet?"
+    },
+    {
+      "time": "16:00",
+      "content": "The most under-discussed shift in AI is not that agents can write code. It is that agents can now ship finished products.\n\nThink about what programmatic video tools represent in the broader picture. A coding agent can receive a prompt, write HTML and CSS, generate a video file, and deliver a finished media product. No developer review. No deployment pipeline. No QA cycle. Prompt in, MP4 out.\n\nWhat product could an agent ship for you today if it could output finished media?"
+    }
+  ],
+  "instagram": {
+    "time": "10:00",
+    "caption": "html-video turns code into MP4s, locally, for free. Coding agents can now ship finished video products, not just software. What would you automate if video was just another output format?\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-07.png"
+    ]
+  },
+  "facebook": {
+    "time": "11:00",
+    "caption": "html-video turns code into MP4s, locally, for free. Coding agents can now ship finished video products, not just software. What would you automate if video was just another output format?\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-07.png"
+    ]
+  },
+  "twitter": [
+    {
+      "time": "12:30",
+      "type": "thread",
+      "tweets": [
+        "I ran an experiment last month.\n\nA thread \ud83e\uddf5\ud83d\udc47",
+        "A video production agency quoted $75,000 for the same project with a 3-week turnaround. The developer used programmatic video tools, templates, and data merging. The quality was not quite agency-level, but it was 94% of the way there for 0.3% of the cost.",
+        "This is the shift that most marketing teams are not prepared for. Programmatic content generation is moving from experimental to standard operating procedure. The companies that figure this out first will produce 10-50x more content than their competitors at a fraction of the cost.",
+        "The skill that matters is not video editing or graphic design. It is thinking in templates, data structures, and automation pipelines. The content creators of 2028 will write code, not timelines.",
+        "Every developer who learns programmatic media production today is acquiring a skill that will be in demand across every industry.\nCould your current content be generated from a template and a spreadsheet?"
+      ]
+    },
+    {
+      "time": "18:00",
+      "type": "image",
+      "content": "html-video turns code into MP4s, locally, for free",
+      "image": "carousel-routine/output/2026-07-12/carousel-branded/slide-01.png"
+    }
+  ]
+}

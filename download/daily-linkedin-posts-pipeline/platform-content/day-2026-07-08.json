@@ -1,0 +1,61 @@
+{
+  "original_date": "2026-07-05",
+  "post_date": "2026-07-08",
+  "topic": "Trigger.dev",
+  "threads": [
+    {
+      "time": "08:30",
+      "content": "The job most vulnerable to AI is not junior coding. It is the person who coordinates work between systems.\n\nI have watched three companies in the last quarter replace internal \"integration specialists\" with automated workflow engines. These were people earning $85,000-$120,000 pulling data from CRM into email tools into analytics dashboards.\n\nWhat is one workflow in your job that could run itself?"
+    },
+    {
+      "time": "16:00",
+      "content": "Which of your developer skills will be worthless in 18 months?\n\nI have been tracking hiring patterns across 47 AI-native startups. Three skills are dropping in job postings faster than any others.\n\nFirst, writing custom retry and queue logic. Open source workflow engines handle this better than any hand-rolled solution.\n\nWhich of these three skills are you still leaning on?"
+    }
+  ],
+  "instagram": {
+    "time": "10:00",
+    "caption": "Most AI workflows are held together by duct tape and prayers. Here's what open source is doing about it. How are you handling AI task reliability? Follow for more on AI developer tools.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-07.png"
+    ]
+  },
+  "facebook": {
+    "time": "11:00",
+    "caption": "Most AI workflows are held together by duct tape and prayers. Here's what open source is doing about it. How are you handling AI task reliability? Follow for more on AI developer tools.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-05/carousel-branded/slide-07.png"
+    ]
+  },
+  "twitter": [
+    {
+      "time": "12:30",
+      "type": "thread",
+      "tweets": [
+        "The job most vulnerable to AI is not junior coding. It is the person who coordinates work between systems.",
+        "I have watched three companies in the last quarter replace internal \"integration specialists\" with automated workflow engines. These were people earning $85,000-$120,000 pulling data from CRM into email tools into analytics dashboards.",
+        "AI workflow platforms now handle that orchestration in real time, with built-in error handling and retries that humans simply cannot match at scale.",
+        "The people who survived were the ones who could define what the workflow should accomplish, not the ones who manually moved data between systems. The skill that matters now is workflow thinking: understanding inputs, outputs, failure states, and escalation paths.",
+        "If your entire value is \"I know how to connect Tool A to Tool B,\" you are sitting on borrowed time.\nThe question is not whether AI will eat coordination work. It already has. The question is whether you are designing the workflows or being replaced by them.",
+        "What is one workflow in your job that could run itself?"
+      ]
+    },
+    {
+      "time": "18:00",
+      "type": "image",
+      "content": "Most AI workflows are held together by duct tape and prayers",
+      "image": "carousel-routine/output/2026-07-05/carousel-branded/slide-01.png"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "original_date": "2026-07-11",
+  "post_date": "2026-07-14",
+  "topic": "Testsprite",
+  "threads": [
+    {
+      "time": "08:30",
+      "content": "A QA lead managing 9 people at a fintech company told me her ticket backlog dropped from 340 to 12 in six weeks after deploying autonomous testing.\n\nHer board is now asking why she needs 9 people.\n\nI have heard the same pattern from 6 different QA leads in the past month. Autonomous testing platforms do not replace QA engineers overnight. They replace the demand for 80% of what QA teams do.\n\nIf you are in QA right now, what is your plan for 2028?"
+    },
+    {
+      "time": "16:00",
+      "content": "Everyone is focused on AI writing code. The real bottleneck is AI verifying that code works.\n\nI have seen AI coding assistants generate functional applications in hours. Then a human spends days testing, debugging edge cases, and catching regressions. The autonomous part of autonomous development is not the writing. It is the validation.\n\nWhat is the one type of bug your team still catches manually?"
+    }
+  ],
+  "instagram": {
+    "time": "10:00",
+    "caption": "Testsprite writes tests, runs them, and fixes failures, all while you sleep. Autonomous testing is not coming, it shipped. What percentage of your engineering time goes to testing?\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-07.png"
+    ]
+  },
+  "facebook": {
+    "time": "11:00",
+    "caption": "Testsprite writes tests, runs them, and fixes failures, all while you sleep. Autonomous testing is not coming, it shipped. What percentage of your engineering time goes to testing?\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-07.png"
+    ]
+  },
+  "twitter": [
+    {
+      "time": "12:30",
+      "type": "thread",
+      "tweets": [
+        "A QA lead managing 9 people at a fintech company told me her ticket backlog dropped from 340 to 12 in six weeks after deploying autonomous testing.\nHer board is now asking why she needs 9 people.",
+        "I have heard the same pattern from 6 different QA leads in the past month. Autonomous testing platforms do not replace QA engineers overnight. They replace the demand for 80% of what QA teams do.",
+        "The writing is on the wall for manual test case creation, regression testing, and test maintenance. These are exactly the tasks that AI handles with higher coverage and faster execution than any human team.",
+        "QA engineers who survive this transition will be the ones who move upstream into test strategy, quality architecture, and AI pipeline oversight. The ones who keep writing test cases by hand will be managing smaller and smaller teams until there is nothing left to manage.",
+        "The 18-month window is how long autonomous testing tools need to reach enterprise maturity.\nIf you are in QA right now, what is your plan for 2028?"
+      ]
+    },
+    {
+      "time": "18:00",
+      "type": "image",
+      "content": "Testsprite writes tests, runs them, and fixes failures, all while you sleep",
+      "image": "carousel-routine/output/2026-07-11/carousel-branded/slide-01.png"
+    }
+  ]
+}

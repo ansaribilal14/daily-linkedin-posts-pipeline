@@ -1,0 +1,59 @@
+{
+  "original_date": "2026-07-06",
+  "post_date": "2026-07-09",
+  "topic": "Graphify",
+  "threads": [
+    {
+      "time": "08:30",
+      "content": "Last month a senior engineer told me she stopped reading her team's pull requests entirely. She reads the AI-generated summaries instead.\n\nI almost dismissed her until I saw her team's velocity numbers: 3.2x output with 28% fewer bugs than the quarter before.\n\nWhat is the last pull request you genuinely needed to read line by line?"
+    },
+    {
+      "time": "16:00",
+      "content": "87% of enterprises using AI coding tools have no system to measure hallucination cost.\n\nI asked 23 engineering leaders last month. Only three could tell me how much time their teams spent verifying AI-generated code.\n\nHow much time does your team spend fixing AI mistakes?"
+    }
+  ],
+  "instagram": {
+    "time": "10:00",
+    "caption": "The \"10x developer who knows every line\" is being replaced by the developer who gives AI perfect context. Which side are you on? Follow for more on AI developer tools.\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-07.png"
+    ]
+  },
+  "facebook": {
+    "time": "11:00",
+    "caption": "The \"10x developer who knows every line\" is being replaced by the developer who gives AI perfect context. Which side are you on? Follow for more on AI developer tools.\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-06/carousel-branded/slide-07.png"
+    ]
+  },
+  "twitter": [
+    {
+      "time": "12:30",
+      "type": "thread",
+      "tweets": [
+        "Last month a senior engineer told me she stopped reading her team's pull requests entirely.\n\nA thread \ud83e\uddf5\ud83d\udc47",
+        "She did not stop caring about quality. She stopped doing the part of her job that a machine does more reliably. Reading 400-line diffs and catching a missing null check is pattern matching. AI excels at pattern matching.",
+        "What she does now is architecture review: asking whether the right problem is being solved, whether the abstractions hold, whether the system will survive the next pivot.\nThat is judgment. And judgment scales in ways that line-by-line reading never could.",
+        "The developers who will thrive in the next two years are not the ones who read the most code. They are the ones who ask the hardest questions about the code someone else wrote.\nWhat is the last pull request you genuinely needed to read line by line?"
+      ]
+    },
+    {
+      "time": "18:00",
+      "type": "image",
+      "content": "The \"10x developer who knows every line\" is being replaced by the developer who gives AI perfect context",
+      "image": "carousel-routine/output/2026-07-06/carousel-branded/slide-01.png"
+    }
+  ]
+}

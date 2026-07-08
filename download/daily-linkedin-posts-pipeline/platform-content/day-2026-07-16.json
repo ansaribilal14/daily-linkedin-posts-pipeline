@@ -1,0 +1,61 @@
+{
+  "original_date": "2026-07-13",
+  "post_date": "2026-07-16",
+  "topic": "Aura.build",
+  "threads": [
+    {
+      "time": "08:30",
+      "content": "A design agency I know charged $12,000 per landing page in 2024. Last month they quoted $3,000 for the same deliverable. They told me they had no choice.\n\nTheir clients are using AI design tools to generate first drafts in 30 seconds. The agency is no longer selling creation. They are selling revision and refinement. That is a much smaller business.\n\nWhen was the last time a client paid you for your taste, not your time?"
+    },
+    {
+      "time": "16:00",
+      "content": "I met a solo founder last week who runs a SaaS with 4,200 users and $42K MRR. She handles all marketing herself using AI design and content tools.\n\nHer monthly marketing output: 12 landing pages, 40 social posts, 8 email campaigns, and 4 product demo videos. All created by her, with AI, in about 15 hours per week.\n\nCould you do your entire team's job with AI tools if you had to?"
+    }
+  ],
+  "instagram": {
+    "time": "10:00",
+    "caption": "Aura.build generates landing pages in seconds and exports to HTML and Figma. The cost of going from idea to live page just hit zero. How many landing pages would you test if each one was free?\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-07.png"
+    ]
+  },
+  "facebook": {
+    "time": "11:00",
+    "caption": "Aura.build generates landing pages in seconds and exports to HTML and Figma. The cost of going from idea to live page just hit zero. How many landing pages would you test if each one was free?\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-07.png"
+    ]
+  },
+  "twitter": [
+    {
+      "time": "12:30",
+      "type": "thread",
+      "tweets": [
+        "A design agency I know charged $12,000 per landing page in 2024. Last month they quoted $3,000 for the same deliverable. They told me they had no choice.",
+        "Their clients are using AI design tools to generate first drafts in 30 seconds. The agency is no longer selling creation. They are selling revision and refinement. That is a much smaller business.",
+        "This is happening across every design discipline. Logo design, social media graphics, email templates, presentation decks. The tools are not quite at professional quality, but they are close enough that clients question every dollar spent on human design.",
+        "The total addressable market for graphic design services was estimated at $300 billion globally. AI design tools are compressing that number fast, not by eliminating the need for design but by making the baseline free.",
+        "Designers who adapt will move into creative direction, brand strategy, and AI output curation. The ones who keep selling pixel-pushing will find their rates cut by 60-80% over the next two years.\nThe design skill that retains value is taste, not technique.",
+        "When was the last time a client paid you for your taste, not your time?"
+      ]
+    },
+    {
+      "time": "18:00",
+      "type": "image",
+      "content": "Aura",
+      "image": "carousel-routine/output/2026-07-13/carousel-branded/slide-01.png"
+    }
+  ]
+}

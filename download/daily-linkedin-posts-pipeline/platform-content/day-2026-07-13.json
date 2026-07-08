@@ -1,0 +1,61 @@
+{
+  "original_date": "2026-07-10",
+  "post_date": "2026-07-13",
+  "topic": "Openwork",
+  "threads": [
+    {
+      "time": "08:30",
+      "content": "67% of enterprise AI tools deployed in Q1 2025 were abandoned by Q3.\n\nI tracked this across 40 companies in my network. The reason was never the technology.\n\nIt was the data policy.\n\nHow long did your company's last AI tool survive before someone asked about data?"
+    },
+    {
+      "time": "16:00",
+      "content": "What happens when your AI vendor becomes your competitor?\n\nI watched a Series B startup spend $180K annually on an AI coding assistant last year. By December, that same vendor launched a product competing directly with the startup's core offering, trained partly on the startup's usage patterns.\n\nWould you trust a vendor who could become your next competitor?"
+    }
+  ],
+  "instagram": {
+    "time": "10:00",
+    "caption": "Claude Cowork charges per seat. Openwork charges nothing and you keep your data. The open source enterprise AI stack is forming faster than anyone predicted. Who controls your team's AI collaboration data?\n\n#ai #artificialintelligence #tech #developer #startup #coding #automation #futureofwork\n\nSave this for later. Follow @founderswing for daily AI breakdowns.",
+    "images": [
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-07.png"
+    ]
+  },
+  "facebook": {
+    "time": "11:00",
+    "caption": "Claude Cowork charges per seat. Openwork charges nothing and you keep your data. The open source enterprise AI stack is forming faster than anyone predicted. Who controls your team's AI collaboration data?\n\nWhat do you think? Drop your take below.",
+    "images": [
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-10/carousel-branded/slide-07.png"
+    ]
+  },
+  "twitter": [
+    {
+      "time": "12:30",
+      "type": "thread",
+      "tweets": [
+        "67% of enterprise AI tools deployed in Q1 2025 were abandoned by Q3.\nI tracked this across 40 companies in my network. The reason was never the technology.\nIt was the data policy.",
+        "Most companies realize 90 days in that their proprietary code, customer data, and strategic documents are flowing through a third-party API with terms of service that allow model training. Legal panics. Security panics. The tool gets shut down.",
+        "The few AI deployments that survive month 4 share one trait: they run on infrastructure the company controls. Not because open source is ideologically better, but because the compliance team will not sign off on anything else.",
+        "This is creating a massive bifurcation. Companies that deployed closed AI tools first now face a costly migration to self-hosted alternatives. Companies that waited are skipping directly to open source deployments that satisfy legal from day one.",
+        "The lesson is clear. In enterprise AI, the data policy matters more than the model quality. A slightly worse model you can actually deploy will always beat a superior model your legal team blocks.",
+        "How long did your company's last AI tool survive before someone asked about data?"
+      ]
+    },
+    {
+      "time": "18:00",
+      "type": "image",
+      "content": "Claude Cowork charges per seat",
+      "image": "carousel-routine/output/2026-07-10/carousel-branded/slide-01.png"
+    }
+  ]
+}
