@@ -1,0 +1,48 @@
+{
+  "date": "2026-07-12",
+  "dow": "Sunday",
+  "topic": "Sploitas",
+  "morning": {
+    "time": "09:00",
+    "type": "AI Fact of the Day",
+    "content": "Claude can read entire codebases. Not individual files. Entire repositories. The Codebase Memory MCP gives it full context of your project structure, dependencies, and patterns. This is why Claude Code makes changes spanning 20+ files coherently."
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #005",
+    "topic": "Sploitas",
+    "ig_caption": "Your design system is useless if AI can't read it. DESIGN.md files are the bridge between your brand and AI agents. Day 11 of 30.\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "Your design system is useless if AI can't read it. DESIGN.md files are the bridge between your brand and AI agents. Day 11 of 30.\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-15/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "weekly_roundup",
+    "series": "This Week in AI (Week #1)",
+    "data": {
+      "week": 1,
+      "stories": [
+        "OpenAI launches GPT-5 with native tool use across 50+ integrations",
+        "Meta releases Llama 4 \u2014 open source model benchmarking above Claude 3.5",
+        "GitHub Copilot Workspace enters general availability",
+        "Anthropic Claude gets real-time web browsing built in",
+        "Google Gemini 2.5 Pro drops with 1M token context window"
+      ],
+      "tools": [
+        "Trigger.dev (workflow reliability)",
+        "Aura.build (instant landing pages)",
+        "Codebase Memory MCP"
+      ],
+      "repo": "build-your-own-x \u2014 70k stars, learn by building",
+      "pick": "Open-sourcing your AI workflow with Trigger.dev instead of paying $2K/month to Temporal"
+    }
+  }
+}

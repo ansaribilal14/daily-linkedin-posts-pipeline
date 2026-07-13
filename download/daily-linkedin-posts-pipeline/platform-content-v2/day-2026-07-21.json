@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-21",
+  "dow": "Tuesday",
+  "topic": "10x AI Website Builder",
+  "morning": {
+    "time": "09:00",
+    "type": "AI Stat of the Day",
+    "content": "The average startup spends $2,400/month on AI tools now. 18 months ago it was $400. The fastest growing SaaS category is not a single tool. It is AI tool stack management. Companies are hiring AI ops roles just to manage subscriptions."
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #014",
+    "topic": "10x AI Website Builder",
+    "ig_caption": "\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-24/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-24/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-24/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-24/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-24/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-24/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-24/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #012",
+    "category": "GitHub Repo",
+    "gem": {
+      "cat": "GitHub Repo",
+      "problem": "Stop screenshotting error logs and pasting them in Slack.",
+      "tool": "share-cli",
+      "one": "Creates a private URL for any terminal output. Expires in 24 hours. No account.",
+      "bullets": [
+        "One command: share file.txt or echo error | share",
+        "Password-protected, auto-expiring shareable links",
+        "Perfect for sharing logs, stack traces, and config with your team"
+      ],
+      "link": "github.com/jcsalomon/share"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #012\n\nStop screenshotting error logs and pasting them in Slack.\n\nshare-cli\nCreates a private URL for any terminal output. Expires in 24 hours. No account.\n\n\u2192 One command: share file.txt or echo error | share\n\u2192 Password-protected, auto-expiring shareable links\n\u2192 Perfect for sharing logs, stack traces, and config with your team\n\n\ud83d\udd17 github.com/jcsalomon/share\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Stop screenshotting error logs and pasting them in Slack.\n\nshare-cli \u2014 Creates a private URL for any terminal output. Expires in 24 hours. No account.\n\nOne command: share file.txt or echo error | share\nPassword-protected, auto-expiring shareable links\n\ngithub.com/jcsalomon/share",
+    "x_text": "Stop screenshotting error logs and pasting them in Slack.\n\nshare-cli \u2014 Creates a private URL for any terminal output. Expires in 24 hours. No account.\n\n\u2192 One command: share file.txt or echo error | share\n\u2192 Password-protected, auto-expiring shareable links\n\u2192 Perfect for sharing logs, stack traces, and config with your team\n\ngithub.com/jcsalomon/share"
+  }
+}

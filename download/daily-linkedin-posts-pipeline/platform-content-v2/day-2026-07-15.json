@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-15",
+  "dow": "Wednesday",
+  "topic": "html-video (nexu-io)",
+  "morning": {
+    "time": "09:00",
+    "type": "Prompt of the Day",
+    "content": "\"Take the role of a Principal Engineer at a FAANG company. Review this architecture decision. For each option give me: (1) What breaks at 10x scale (2) What breaks at 100x scale (3) The one thing everyone overlooks.\"\n\nForces AI to think in systems, not just code."
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #008",
+    "topic": "html-video (nexu-io)",
+    "ig_caption": "AI website builders crossed the production-quality threshold. 10x generates sitemaps, wireframes, style guides, and full pages from one prompt. Day 14 of 30.\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "AI website builders crossed the production-quality threshold. 10x generates sitemaps, wireframes, style guides, and full pages from one prompt. Day 14 of 30.\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-18/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #007",
+    "category": "AI Tool",
+    "gem": {
+      "cat": "AI Tool",
+      "problem": "Stop recording your screen to explain a bug to your team.",
+      "tool": "Tango",
+      "one": "Records your screen and auto-generates a step-by-step visual guide. Zero editing.",
+      "bullets": [
+        "Captures clicks, scrolls, and typed text automatically",
+        "Outputs a shareable link with annotated screenshots",
+        "Turns a 10-minute walkthrough into a 60-second read"
+      ],
+      "link": "tango.us"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #007\n\nStop recording your screen to explain a bug to your team.\n\nTango\nRecords your screen and auto-generates a step-by-step visual guide. Zero editing.\n\n\u2192 Captures clicks, scrolls, and typed text automatically\n\u2192 Outputs a shareable link with annotated screenshots\n\u2192 Turns a 10-minute walkthrough into a 60-second read\n\n\ud83d\udd17 tango.us\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Stop recording your screen to explain a bug to your team.\n\nTango \u2014 Records your screen and auto-generates a step-by-step visual guide. Zero editing.\n\nCaptures clicks, scrolls, and typed text automatically\nOutputs a shareable link with annotated screenshots\n\ntango.us",
+    "x_text": "Stop recording your screen to explain a bug to your team.\n\nTango \u2014 Records your screen and auto-generates a step-by-step visual guide. Zero editing.\n\n\u2192 Captures clicks, scrolls, and typed text automatically\n\u2192 Outputs a shareable link with annotated screenshots\n\u2192 Turns a 10-minute walkthrough into a 60-second read\n\ntango.us"
+  }
+}

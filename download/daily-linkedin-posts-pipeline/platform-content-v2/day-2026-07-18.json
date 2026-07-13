@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-18",
+  "dow": "Saturday",
+  "topic": "Refero Styles",
+  "morning": {
+    "time": "09:00",
+    "type": "GitHub Repo of the Day",
+    "content": "system-design-101\n\nHow large-scale systems are actually designed. Covers WhatsApp, YouTube, Google Drive, Uber, and 30+ real architectures with diagrams and trade-off analysis.\n\nNot a tutorial. A mental model library.\n\n50k+ stars.\ngithub.com/ByteByteGoHQ/system-design-101"
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #011",
+    "topic": "Refero Styles",
+    "ig_caption": "\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-21/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-21/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-21/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-21/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-21/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-21/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-21/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #010",
+    "category": "Chrome Extension",
+    "gem": {
+      "cat": "Chrome Extension",
+      "problem": "Stop switching between 15 tabs to check different screen sizes.",
+      "tool": "Responsively App",
+      "one": "See your website on every screen size simultaneously. DevTools for each one.",
+      "bullets": [
+        "Side-by-side preview of mobile, tablet, and desktop",
+        "Synchronized scrolling and interaction across viewports",
+        "Built-in devtools for each device preview"
+      ],
+      "link": "responsively.app"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #010\n\nStop switching between 15 tabs to check different screen sizes.\n\nResponsively App\nSee your website on every screen size simultaneously. DevTools for each one.\n\n\u2192 Side-by-side preview of mobile, tablet, and desktop\n\u2192 Synchronized scrolling and interaction across viewports\n\u2192 Built-in devtools for each device preview\n\n\ud83d\udd17 responsively.app\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Stop switching between 15 tabs to check different screen sizes.\n\nResponsively App \u2014 See your website on every screen size simultaneously. DevTools for each one.\n\nSide-by-side preview of mobile, tablet, and desktop\nSynchronized scrolling and interaction across viewports\n\nresponsively.app",
+    "x_text": "Stop switching between 15 tabs to check different screen sizes.\n\nResponsively App \u2014 See your website on every screen size simultaneously. DevTools for each one.\n\n\u2192 Side-by-side preview of mobile, tablet, and desktop\n\u2192 Synchronized scrolling and interaction across viewports\n\u2192 Built-in devtools for each device preview\n\nresponsively.app"
+  }
+}

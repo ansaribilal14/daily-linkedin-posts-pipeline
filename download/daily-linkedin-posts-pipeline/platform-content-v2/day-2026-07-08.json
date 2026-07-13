@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-08",
+  "dow": "Wednesday",
+  "topic": "Trigger.dev",
+  "morning": {
+    "time": "09:00",
+    "type": "AI Fact of the Day",
+    "content": "GPT-4 was trained on 13 trillion tokens. Roughly 20 million books. The model is 1.76 trillion parameters but uses mixture-of-experts, meaning only 220 billion are active per response. This is why it feels fast despite its massive size."
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #001",
+    "topic": "Trigger.dev",
+    "ig_caption": "Testsprite writes tests, runs them, and fixes failures, all while you sleep. Autonomous testing is not coming, it shipped. What percentage of your engineering time goes to testing?\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "Testsprite writes tests, runs them, and fixes failures, all while you sleep. Autonomous testing is not coming, it shipped. What percentage of your engineering time goes to testing?\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-11/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #001",
+    "category": "AI Tool",
+    "gem": {
+      "cat": "AI Tool",
+      "problem": "Stop rewriting the same API client for every project.",
+      "tool": "OpenAPI Generator",
+      "one": "Instant typed SDKs from any OpenAPI spec. Paste a URL, get TypeScript or Python client code.",
+      "bullets": [
+        "Generates clients in 40+ languages from OpenAPI 3.x specs",
+        "Zero config, handles auth, pagination, and errors automatically",
+        "Saves 2-3 hours per API integration you'd otherwise write by hand"
+      ],
+      "link": "github.com/OpenAPITools/openapi-generator"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #001\n\nStop rewriting the same API client for every project.\n\nOpenAPI Generator\nInstant typed SDKs from any OpenAPI spec. Paste a URL, get TypeScript or Python client code.\n\n\u2192 Generates clients in 40+ languages from OpenAPI 3.x specs\n\u2192 Zero config, handles auth, pagination, and errors automatically\n\u2192 Saves 2-3 hours per API integration you'd otherwise write by hand\n\n\ud83d\udd17 github.com/OpenAPITools/openapi-generator\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Stop rewriting the same API client for every project.\n\nOpenAPI Generator \u2014 Instant typed SDKs from any OpenAPI spec. Paste a URL, get TypeScript or Python client code.\n\nGenerates clients in 40+ languages from OpenAPI 3.x specs\nZero config, handles auth, pagination, and errors automatically\n\ngithub.com/OpenAPITools/openapi-generator",
+    "x_text": "Stop rewriting the same API client for every project.\n\nOpenAPI Generator \u2014 Instant typed SDKs from any OpenAPI spec. Paste a URL, get TypeScript or Python client code.\n\n\u2192 Generates clients in 40+ languages from OpenAPI 3.x specs\n\u2192 Zero config, handles auth, pagination, and errors automatically\n\u2192 Saves 2-3 hours per API integration you'd otherwise write by hand\n\ngithub.com/OpenAPITools/openapi-generator"
+  }
+}

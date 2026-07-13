@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-20",
+  "dow": "Monday",
+  "topic": "Recent (formerly Godly)",
+  "morning": {
+    "time": "09:00",
+    "type": "AI Fact of the Day",
+    "content": "MCP (Model Context Protocol) is becoming the USB standard for AI tools. Instead of every AI app building its own GitHub/Slack/Postgres integration, MCP provides one universal connector. Anthropic open-sourced it. Everyone is adopting it."
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #013",
+    "topic": "Recent (formerly Godly)",
+    "ig_caption": "\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-23/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-23/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-23/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-23/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-23/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-23/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-23/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #011",
+    "category": "API",
+    "gem": {
+      "cat": "API",
+      "problem": "Stop hardcoding mock data every time you prototype an API.",
+      "tool": "Mockaroo",
+      "one": "Generate realistic fake data in JSON, CSV, or SQL. 1000 rows free, 200+ field types.",
+      "bullets": [
+        "Names, emails, IPs, dates, paragraphs, and 200+ more types",
+        "Custom schemas with relationships between tables",
+        "REST API endpoint so you can hit it directly from your code"
+      ],
+      "link": "mockaroo.com"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #011\n\nStop hardcoding mock data every time you prototype an API.\n\nMockaroo\nGenerate realistic fake data in JSON, CSV, or SQL. 1000 rows free, 200+ field types.\n\n\u2192 Names, emails, IPs, dates, paragraphs, and 200+ more types\n\u2192 Custom schemas with relationships between tables\n\u2192 REST API endpoint so you can hit it directly from your code\n\n\ud83d\udd17 mockaroo.com\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Stop hardcoding mock data every time you prototype an API.\n\nMockaroo \u2014 Generate realistic fake data in JSON, CSV, or SQL. 1000 rows free, 200+ field types.\n\nNames, emails, IPs, dates, paragraphs, and 200+ more types\nCustom schemas with relationships between tables\n\nmockaroo.com",
+    "x_text": "Stop hardcoding mock data every time you prototype an API.\n\nMockaroo \u2014 Generate realistic fake data in JSON, CSV, or SQL. 1000 rows free, 200+ field types.\n\n\u2192 Names, emails, IPs, dates, paragraphs, and 200+ more types\n\u2192 Custom schemas with relationships between tables\n\u2192 REST API endpoint so you can hit it directly from your code\n\nmockaroo.com"
+  }
+}

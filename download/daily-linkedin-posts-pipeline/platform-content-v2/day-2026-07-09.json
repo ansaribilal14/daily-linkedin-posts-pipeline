@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-09",
+  "dow": "Thursday",
+  "topic": "Graphify",
+  "morning": {
+    "time": "09:00",
+    "type": "AI Stat of the Day",
+    "content": "67% of Fortune 500 companies have a GenAI initiative in production. Only 12% report measurable ROI. The gap between deployment and value is the biggest story in enterprise tech. Most are stuck in the pilot forever phase."
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #002",
+    "topic": "Graphify",
+    "ig_caption": "html-video turns code into MP4s, locally, for free. Coding agents can now ship finished video products, not just software. What would you automate if video was just another output format?\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "html-video turns code into MP4s, locally, for free. Coding agents can now ship finished video products, not just software. What would you automate if video was just another output format?\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-12/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #002",
+    "category": "VS Code Extension",
+    "gem": {
+      "cat": "VS Code Extension",
+      "problem": "Stop manually copying error messages to Google.",
+      "tool": "Error Lens",
+      "one": "Shows errors inline, right where the code breaks. No hovering needed.",
+      "bullets": [
+        "Displays TypeScript, Python, Rust errors directly in the editor line",
+        "Cuts debug time by 40% for multi-file projects",
+        "Works with any language server that supports diagnostics"
+      ],
+      "link": "marketplace.visualstudio.com/items?itemName=usernamehw.errorlens"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #002\n\nStop manually copying error messages to Google.\n\nError Lens\nShows errors inline, right where the code breaks. No hovering needed.\n\n\u2192 Displays TypeScript, Python, Rust errors directly in the editor line\n\u2192 Cuts debug time by 40% for multi-file projects\n\u2192 Works with any language server that supports diagnostics\n\n\ud83d\udd17 marketplace.visualstudio.com/items?itemName=usernamehw.errorlens\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Stop manually copying error messages to Google.\n\nError Lens \u2014 Shows errors inline, right where the code breaks. No hovering needed.\n\nDisplays TypeScript, Python, Rust errors directly in the editor line\nCuts debug time by 40% for multi-file projects\n\nmarketplace.visualstudio.com/items?itemName=usernamehw.errorlens",
+    "x_text": "Stop manually copying error messages to Google.\n\nError Lens \u2014 Shows errors inline, right where the code breaks. No hovering needed.\n\n\u2192 Displays TypeScript, Python, Rust errors directly in the editor line\n\u2192 Cuts debug time by 40% for multi-file projects\n\u2192 Works with any language server that supports diagnostics\n\nmarketplace.visualstudio.com/items?itemName=usernamehw.errorlens"
+  }
+}

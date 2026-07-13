@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-10",
+  "dow": "Friday",
+  "topic": "Video Use Skill",
+  "morning": {
+    "time": "09:00",
+    "type": "GitHub Repo of the Day",
+    "content": "build-your-own-x\n\nLinks to build your own: Git, JSON parser, web server, database, shell, regex engine, and 100+ more. Every implementation has step-by-step tutorials.\n\nIf you want to understand how something works, build it. This repo is the map.\n\n70k+ stars. Updated weekly.\ngithub.com/codecrafters-io/build-your-own-x"
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #003",
+    "topic": "Video Use Skill",
+    "ig_caption": "Aura.build generates landing pages in seconds and exports to HTML and Figma. The cost of going from idea to live page just hit zero. How many landing pages would you test if each one was free?\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "Aura.build generates landing pages in seconds and exports to HTML and Figma. The cost of going from idea to live page just hit zero. How many landing pages would you test if each one was free?\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-13/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #003",
+    "category": "MCP Server",
+    "gem": {
+      "cat": "MCP Server",
+      "problem": "Your AI assistant can't read your database schema.",
+      "tool": "Postgres MCP Server",
+      "one": "Gives Claude/Cursor live access to your Postgres schema without exposing credentials.",
+      "bullets": [
+        "Claude can query tables, explain schemas, write migrations",
+        "Read-only by default, you approve any write operations",
+        "Replaces copy-pasting schema DDLs into your AI prompt"
+      ],
+      "link": "github.com/modelcontextprotocol/servers/tree/main/src/postgres"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #003\n\nYour AI assistant can't read your database schema.\n\nPostgres MCP Server\nGives Claude/Cursor live access to your Postgres schema without exposing credentials.\n\n\u2192 Claude can query tables, explain schemas, write migrations\n\u2192 Read-only by default, you approve any write operations\n\u2192 Replaces copy-pasting schema DDLs into your AI prompt\n\n\ud83d\udd17 github.com/modelcontextprotocol/servers/tree/main/src/postgres\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Your AI assistant can't read your database schema.\n\nPostgres MCP Server \u2014 Gives Claude/Cursor live access to your Postgres schema without exposing credentials.\n\nClaude can query tables, explain schemas, write migrations\nRead-only by default, you approve any write operations\n\ngithub.com/modelcontextprotocol/servers/tree/main/src/postgres",
+    "x_text": "Your AI assistant can't read your database schema.\n\nPostgres MCP Server \u2014 Gives Claude/Cursor live access to your Postgres schema without exposing credentials.\n\n\u2192 Claude can query tables, explain schemas, write migrations\n\u2192 Read-only by default, you approve any write operations\n\u2192 Replaces copy-pasting schema DDLs into your AI prompt\n\ngithub.com/modelcontextprotocol/servers/tree/main/src/postgres"
+  }
+}

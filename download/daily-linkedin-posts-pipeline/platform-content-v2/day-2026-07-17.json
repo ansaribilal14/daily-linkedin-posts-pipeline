@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-17",
+  "dow": "Friday",
+  "topic": "Aceternity UI",
+  "morning": {
+    "time": "09:00",
+    "type": "AI Stat of the Day",
+    "content": "Open source AI models caught up to proprietary ones on coding benchmarks. DeepSeek Coder V2 matches GPT-4 on HumanEval. Llama 3.1 405B matches Claude on reasoning. The pay $20/month or fall behind narrative is dying."
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #010",
+    "topic": "Aceternity UI",
+    "ig_caption": "\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-20/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-20/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-20/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-20/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-20/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-20/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-20/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #009",
+    "category": "MCP Server",
+    "gem": {
+      "cat": "MCP Server",
+      "problem": "Your AI can browse the web but can't fill forms or click buttons.",
+      "tool": "Playwright MCP Server",
+      "one": "Gives your AI a real browser. Navigate, click, fill forms, and scrape automatically.",
+      "bullets": [
+        "Claude can interact with any website like a human",
+        "Automates form filling, testing, and data extraction",
+        "Works with any MCP-compatible AI client"
+      ],
+      "link": "github.com/executeautomation/playwright-mcp-server"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #009\n\nYour AI can browse the web but can't fill forms or click buttons.\n\nPlaywright MCP Server\nGives your AI a real browser. Navigate, click, fill forms, and scrape automatically.\n\n\u2192 Claude can interact with any website like a human\n\u2192 Automates form filling, testing, and data extraction\n\u2192 Works with any MCP-compatible AI client\n\n\ud83d\udd17 github.com/executeautomation/playwright-mcp-server\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Your AI can browse the web but can't fill forms or click buttons.\n\nPlaywright MCP Server \u2014 Gives your AI a real browser. Navigate, click, fill forms, and scrape automatically.\n\nClaude can interact with any website like a human\nAutomates form filling, testing, and data extraction\n\ngithub.com/executeautomation/playwright-mcp-server",
+    "x_text": "Your AI can browse the web but can't fill forms or click buttons.\n\nPlaywright MCP Server \u2014 Gives your AI a real browser. Navigate, click, fill forms, and scrape automatically.\n\n\u2192 Claude can interact with any website like a human\n\u2192 Automates form filling, testing, and data extraction\n\u2192 Works with any MCP-compatible AI client\n\ngithub.com/executeautomation/playwright-mcp-server"
+  }
+}

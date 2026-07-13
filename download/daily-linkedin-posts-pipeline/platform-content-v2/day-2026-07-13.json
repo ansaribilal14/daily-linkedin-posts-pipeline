@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-13",
+  "dow": "Monday",
+  "topic": "Openwork",
+  "morning": {
+    "time": "09:00",
+    "type": "AI Stat of the Day",
+    "content": "Developers using AI coding tools ship 55% more features per sprint. But bug rate increases 23%. The productivity gain is real. The quality cost is also real. Teams that pair AI with strong testing see 3x the net benefit."
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #006",
+    "topic": "Openwork",
+    "ig_caption": "200,000+ real app designs. Categorized. Searchable. Free to browse. Mobbin is the design reference library I wish existed 5 years ago. Day 12 of 30.\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "200,000+ real app designs. Categorized. Searchable. Free to browse. Mobbin is the design reference library I wish existed 5 years ago. Day 12 of 30.\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-16/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #005",
+    "category": "API",
+    "gem": {
+      "cat": "API",
+      "problem": "Stop building your own email verification system.",
+      "tool": "Hunter.io Free API",
+      "one": "Verify any email and find the right contact at any company. 25 free searches/month.",
+      "bullets": [
+        "Email verification with 99.9% deliverability prediction",
+        "Domain search reveals company email patterns",
+        "Enough free tier for early-stage founders to never pay"
+      ],
+      "link": "hunter.io/api"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #005\n\nStop building your own email verification system.\n\nHunter.io Free API\nVerify any email and find the right contact at any company. 25 free searches/month.\n\n\u2192 Email verification with 99.9% deliverability prediction\n\u2192 Domain search reveals company email patterns\n\u2192 Enough free tier for early-stage founders to never pay\n\n\ud83d\udd17 hunter.io/api\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Stop building your own email verification system.\n\nHunter.io Free API \u2014 Verify any email and find the right contact at any company. 25 free searches/month.\n\nEmail verification with 99.9% deliverability prediction\nDomain search reveals company email patterns\n\nhunter.io/api",
+    "x_text": "Stop building your own email verification system.\n\nHunter.io Free API \u2014 Verify any email and find the right contact at any company. 25 free searches/month.\n\n\u2192 Email verification with 99.9% deliverability prediction\n\u2192 Domain search reveals company email patterns\n\u2192 Enough free tier for early-stage founders to never pay\n\nhunter.io/api"
+  }
+}

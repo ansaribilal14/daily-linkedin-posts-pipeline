@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-16",
+  "dow": "Thursday",
+  "topic": "Aura.build",
+  "morning": {
+    "time": "09:00",
+    "type": "AI Fact of the Day",
+    "content": "GitHub Copilot now auto-completes pull request descriptions, test cases, and commit messages. The training data shifted from public repos to internal Microsoft/GitHub workflows. Your company's private patterns are the new training data."
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #009",
+    "topic": "Aura.build",
+    "ig_caption": "Your AI coding assistant is flying blind. Codebase Memory MCP gives it a knowledge graph of your entire repo in milliseconds. Day 15 of 30.\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "Your AI coding assistant is flying blind. Codebase Memory MCP gives it a knowledge graph of your entire repo in milliseconds. Day 15 of 30.\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-19/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #008",
+    "category": "VS Code Extension",
+    "gem": {
+      "cat": "VS Code Extension",
+      "problem": "Stop reading documentation to understand what a function does.",
+      "tool": "CodeTour",
+      "one": "Record and playback codebase walkthroughs like a guided tour for new team members.",
+      "bullets": [
+        "Step through code files in a defined order with annotations",
+        "Share tours as JSON files or GitHub Gists",
+        "Cuts onboarding time for new developers by 50%"
+      ],
+      "link": "marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #008\n\nStop reading documentation to understand what a function does.\n\nCodeTour\nRecord and playback codebase walkthroughs like a guided tour for new team members.\n\n\u2192 Step through code files in a defined order with annotations\n\u2192 Share tours as JSON files or GitHub Gists\n\u2192 Cuts onboarding time for new developers by 50%\n\n\ud83d\udd17 marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Stop reading documentation to understand what a function does.\n\nCodeTour \u2014 Record and playback codebase walkthroughs like a guided tour for new team members.\n\nStep through code files in a defined order with annotations\nShare tours as JSON files or GitHub Gists\n\nmarketplace.visualstudio.com/items?itemName=vsls-contrib.codetour",
+    "x_text": "Stop reading documentation to understand what a function does.\n\nCodeTour \u2014 Record and playback codebase walkthroughs like a guided tour for new team members.\n\n\u2192 Step through code files in a defined order with annotations\n\u2192 Share tours as JSON files or GitHub Gists\n\u2192 Cuts onboarding time for new developers by 50%\n\nmarketplace.visualstudio.com/items?itemName=vsls-contrib.codetour"
+  }
+}

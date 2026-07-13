@@ -1,0 +1,272 @@
+[
+  {
+    "date": "2026-07-08",
+    "time": "09:00",
+    "type": "morning",
+    "series": "AI Fact of the Day"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #001"
+  },
+  {
+    "date": "2026-07-08",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #001"
+  },
+  {
+    "date": "2026-07-09",
+    "time": "09:00",
+    "type": "morning",
+    "series": "AI Stat of the Day"
+  },
+  {
+    "date": "2026-07-09",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #002"
+  },
+  {
+    "date": "2026-07-09",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #002"
+  },
+  {
+    "date": "2026-07-10",
+    "time": "09:00",
+    "type": "morning",
+    "series": "GitHub Repo of the Day"
+  },
+  {
+    "date": "2026-07-10",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #003"
+  },
+  {
+    "date": "2026-07-10",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #003"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "09:00",
+    "type": "morning",
+    "series": "Prompt of the Day"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #004"
+  },
+  {
+    "date": "2026-07-11",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #004"
+  },
+  {
+    "date": "2026-07-12",
+    "time": "09:00",
+    "type": "morning",
+    "series": "AI Fact of the Day"
+  },
+  {
+    "date": "2026-07-12",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #005"
+  },
+  {
+    "date": "2026-07-12",
+    "time": "19:30",
+    "type": "weekly_roundup",
+    "series": "This Week in AI (Week #1)"
+  },
+  {
+    "date": "2026-07-13",
+    "time": "09:00",
+    "type": "morning",
+    "series": "AI Stat of the Day"
+  },
+  {
+    "date": "2026-07-13",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #006"
+  },
+  {
+    "date": "2026-07-13",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #005"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "09:00",
+    "type": "morning",
+    "series": "GitHub Repo of the Day"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #007"
+  },
+  {
+    "date": "2026-07-14",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #006"
+  },
+  {
+    "date": "2026-07-15",
+    "time": "09:00",
+    "type": "morning",
+    "series": "Prompt of the Day"
+  },
+  {
+    "date": "2026-07-15",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #008"
+  },
+  {
+    "date": "2026-07-15",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #007"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "09:00",
+    "type": "morning",
+    "series": "AI Fact of the Day"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #009"
+  },
+  {
+    "date": "2026-07-16",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #008"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "09:00",
+    "type": "morning",
+    "series": "AI Stat of the Day"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #010"
+  },
+  {
+    "date": "2026-07-17",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #009"
+  },
+  {
+    "date": "2026-07-18",
+    "time": "09:00",
+    "type": "morning",
+    "series": "GitHub Repo of the Day"
+  },
+  {
+    "date": "2026-07-18",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #011"
+  },
+  {
+    "date": "2026-07-18",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #010"
+  },
+  {
+    "date": "2026-07-19",
+    "time": "09:00",
+    "type": "morning",
+    "series": "Prompt of the Day"
+  },
+  {
+    "date": "2026-07-19",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #012"
+  },
+  {
+    "date": "2026-07-19",
+    "time": "19:30",
+    "type": "weekly_roundup",
+    "series": "This Week in AI (Week #2)"
+  },
+  {
+    "date": "2026-07-20",
+    "time": "09:00",
+    "type": "morning",
+    "series": "AI Fact of the Day"
+  },
+  {
+    "date": "2026-07-20",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #013"
+  },
+  {
+    "date": "2026-07-20",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #011"
+  },
+  {
+    "date": "2026-07-21",
+    "time": "09:00",
+    "type": "morning",
+    "series": "AI Stat of the Day"
+  },
+  {
+    "date": "2026-07-21",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #014"
+  },
+  {
+    "date": "2026-07-21",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #012"
+  },
+  {
+    "date": "2026-07-22",
+    "time": "09:00",
+    "type": "morning",
+    "series": "GitHub Repo of the Day"
+  },
+  {
+    "date": "2026-07-22",
+    "time": "13:00",
+    "type": "hero_carousel",
+    "series": "AI Tool Breakdown #015"
+  },
+  {
+    "date": "2026-07-22",
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #013"
+  }
+]

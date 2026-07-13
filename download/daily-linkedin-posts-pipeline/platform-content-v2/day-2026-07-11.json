@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-11",
+  "dow": "Saturday",
+  "topic": "Hyperframes",
+  "morning": {
+    "time": "09:00",
+    "type": "Prompt of the Day",
+    "content": "\"You are a senior engineer reviewing my code. Do NOT suggest changes. Instead, ask me 5 questions that will make me spot the problem myself.\"\n\nThis prompt is 10x more effective than \"review my code.\" It teaches you to think, not just copy fixes."
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #004",
+    "topic": "Hyperframes",
+    "ig_caption": "Aceternity UI gives you 200+ animated React components for free. Copy, paste, ship. No design skills required. What component took you the longest to build from scratch?\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "Aceternity UI gives you 200+ animated React components for free. Copy, paste, ship. No design skills required. What component took you the longest to build from scratch?\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-14/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #004",
+    "category": "Chrome Extension",
+    "gem": {
+      "cat": "Chrome Extension",
+      "problem": "Stop losing the AI prompts that actually work.",
+      "tool": "PromptBox",
+      "one": "Save, organize, and reuse AI prompts with one click from any chat interface.",
+      "bullets": [
+        "Right-click to save any prompt from ChatGPT, Claude, or Gemini",
+        "Folders, tags, and search across your entire prompt library",
+        "Community prompts with usage stats so you know what works"
+      ],
+      "link": "promptbox.ai"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #004\n\nStop losing the AI prompts that actually work.\n\nPromptBox\nSave, organize, and reuse AI prompts with one click from any chat interface.\n\n\u2192 Right-click to save any prompt from ChatGPT, Claude, or Gemini\n\u2192 Folders, tags, and search across your entire prompt library\n\u2192 Community prompts with usage stats so you know what works\n\n\ud83d\udd17 promptbox.ai\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Stop losing the AI prompts that actually work.\n\nPromptBox \u2014 Save, organize, and reuse AI prompts with one click from any chat interface.\n\nRight-click to save any prompt from ChatGPT, Claude, or Gemini\nFolders, tags, and search across your entire prompt library\n\npromptbox.ai",
+    "x_text": "Stop losing the AI prompts that actually work.\n\nPromptBox \u2014 Save, organize, and reuse AI prompts with one click from any chat interface.\n\n\u2192 Right-click to save any prompt from ChatGPT, Claude, or Gemini\n\u2192 Folders, tags, and search across your entire prompt library\n\u2192 Community prompts with usage stats so you know what works\n\npromptbox.ai"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-22",
+  "dow": "Wednesday",
+  "topic": "Codebase Memory MCP",
+  "morning": {
+    "time": "09:00",
+    "type": "GitHub Repo of the Day",
+    "content": "free-for-dev\n\nFree tiers for everything: hosting, databases, CI/CD, analytics, email, monitoring, domains, and more.\n\nIf you are building a side project and want to spend $0, this is your entire infrastructure plan.\n\n90k+ stars.\ngithub.com/ripienaar/free-for-dev"
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #015",
+    "topic": "Codebase Memory MCP",
+    "ig_caption": "\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-25/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-25/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-25/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-25/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-25/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-25/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-25/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #013",
+    "category": "AI Tool",
+    "gem": {
+      "cat": "AI Tool",
+      "problem": "Stop paying $20/month for AI image generation you use twice a week.",
+      "tool": "Fooocus",
+      "one": "Midjourney-quality images, runs locally, completely free. No subscription.",
+      "bullets": [
+        "Simple prompt box, no complex settings to learn",
+        "Runs on any GPU with 4GB+ VRAM or use free cloud instances",
+        "Outputs are production-ready for social media and landing pages"
+      ],
+      "link": "github.com/lllyasviel/Fooocus"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #013\n\nStop paying $20/month for AI image generation you use twice a week.\n\nFooocus\nMidjourney-quality images, runs locally, completely free. No subscription.\n\n\u2192 Simple prompt box, no complex settings to learn\n\u2192 Runs on any GPU with 4GB+ VRAM or use free cloud instances\n\u2192 Outputs are production-ready for social media and landing pages\n\n\ud83d\udd17 github.com/lllyasviel/Fooocus\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Stop paying $20/month for AI image generation you use twice a week.\n\nFooocus \u2014 Midjourney-quality images, runs locally, completely free. No subscription.\n\nSimple prompt box, no complex settings to learn\nRuns on any GPU with 4GB+ VRAM or use free cloud instances\n\ngithub.com/lllyasviel/Fooocus",
+    "x_text": "Stop paying $20/month for AI image generation you use twice a week.\n\nFooocus \u2014 Midjourney-quality images, runs locally, completely free. No subscription.\n\n\u2192 Simple prompt box, no complex settings to learn\n\u2192 Runs on any GPU with 4GB+ VRAM or use free cloud instances\n\u2192 Outputs are production-ready for social media and landing pages\n\ngithub.com/lllyasviel/Fooocus"
+  }
+}

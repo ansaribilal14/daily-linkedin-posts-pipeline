@@ -1,0 +1,47 @@
+{
+  "date": "2026-07-14",
+  "dow": "Tuesday",
+  "topic": "Testsprite",
+  "morning": {
+    "time": "09:00",
+    "type": "GitHub Repo of the Day",
+    "content": "awesome-mcp-servers\n\n200+ MCP servers for every use case: web scraping, database access, file systems, browser automation, design tools, and more.\n\nIf you use Claude, Cursor, or any MCP-compatible tool, this is your plugin directory. Updated daily.\ngithub.com/punkpeye/awesome-mcp-servers"
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #007",
+    "topic": "Testsprite",
+    "ig_caption": "The internet is full of boring websites. Recent (formerly Godly) curates the ones that aren't. Use it to reset your taste. Day 13 of 30.\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "The internet is full of boring websites. Recent (formerly Godly) curates the ones that aren't. Use it to reset your taste. Day 13 of 30.\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-17/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "hidden_gem",
+    "series": "Hidden Gem #006",
+    "category": "GitHub Repo",
+    "gem": {
+      "cat": "GitHub Repo",
+      "problem": "Stop guessing why your Node.js app is slow.",
+      "tool": "0x",
+      "one": "Zero-config Node.js profiling. One command tells you exactly which function burns CPU.",
+      "bullets": [
+        "Flame graphs generated automatically in your browser",
+        "Profiles CPU, memory, and async operations",
+        "No code changes needed, works on production servers"
+      ],
+      "link": "github.com/davidmarkclements/0x"
+    },
+    "ig_text": "\ud83d\udc8e Hidden Gem #006\n\nStop guessing why your Node.js app is slow.\n\n0x\nZero-config Node.js profiling. One command tells you exactly which function burns CPU.\n\n\u2192 Flame graphs generated automatically in your browser\n\u2192 Profiles CPU, memory, and async operations\n\u2192 No code changes needed, works on production servers\n\n\ud83d\udd17 github.com/davidmarkclements/0x\n\nFollow @ansari.hamza14 | ansaribilal.com",
+    "threads_text": "Stop guessing why your Node.js app is slow.\n\n0x \u2014 Zero-config Node.js profiling. One command tells you exactly which function burns CPU.\n\nFlame graphs generated automatically in your browser\nProfiles CPU, memory, and async operations\n\ngithub.com/davidmarkclements/0x",
+    "x_text": "Stop guessing why your Node.js app is slow.\n\n0x \u2014 Zero-config Node.js profiling. One command tells you exactly which function burns CPU.\n\n\u2192 Flame graphs generated automatically in your browser\n\u2192 Profiles CPU, memory, and async operations\n\u2192 No code changes needed, works on production servers\n\ngithub.com/davidmarkclements/0x"
+  }
+}

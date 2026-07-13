@@ -1,0 +1,48 @@
+{
+  "date": "2026-07-19",
+  "dow": "Sunday",
+  "topic": "Mobbin",
+  "morning": {
+    "time": "09:00",
+    "type": "Prompt of the Day",
+    "content": "\"I am going to paste code. Do NOT explain it. Rewrite it in the most minimal, readable way possible while preserving exact behavior. Then tell me what you removed and why.\"\n\nBest way to learn clean code. You see the before/after and the reasoning."
+  },
+  "hero": {
+    "time": "13:00",
+    "series": "AI Tool Breakdown #012",
+    "topic": "Mobbin",
+    "ig_caption": "\n\n#ai #tech #developer #startup #coding #automation #futureofwork #aitools\n\nSave this. Follow @ansari.hamza14 for daily AI breakdowns.\nansaribilal.com",
+    "fb_caption": "\n\nWhat do you think? Drop your take below.\nFounders Wing \u2014 ansaribilal.com",
+    "images": [
+      "carousel-routine/output/2026-07-22/carousel-branded/slide-01.png",
+      "carousel-routine/output/2026-07-22/carousel-branded/slide-02.png",
+      "carousel-routine/output/2026-07-22/carousel-branded/slide-03.png",
+      "carousel-routine/output/2026-07-22/carousel-branded/slide-04.png",
+      "carousel-routine/output/2026-07-22/carousel-branded/slide-05.png",
+      "carousel-routine/output/2026-07-22/carousel-branded/slide-06.png",
+      "carousel-routine/output/2026-07-22/carousel-branded/slide-07.png"
+    ]
+  },
+  "evening": {
+    "time": "19:30",
+    "type": "weekly_roundup",
+    "series": "This Week in AI (Week #2)",
+    "data": {
+      "week": 2,
+      "stories": [
+        "DeepSeek releases Coder V3 \u2014 matches GPT-4 on code, costs 1/10th",
+        "MCP protocol hits 10,000 servers on the official registry",
+        "Cursor raises $400M at $2.6B valuation",
+        "VS Code adds native AI agent mode, no extension needed",
+        "Apple announces on-device AI models for the next macOS"
+      ],
+      "tools": [
+        "Hyperframes (HTML to video)",
+        "Playwright MCP Server",
+        "0x (Node.js profiling)"
+      ],
+      "repo": "awesome-mcp-servers \u2014 the MCP plugin directory",
+      "pick": "Playwright MCP Server \u2014 giving AI a real browser changes everything"
+    }
+  }
+}
