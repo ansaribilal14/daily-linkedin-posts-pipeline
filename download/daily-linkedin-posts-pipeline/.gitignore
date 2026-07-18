@@ -21,4 +21,15 @@ render_carousel.cjs
 build_all_carousels.cjs
 build_all_carousels.py
 package.json
-package-lock.json
+package-lock.json.puppeteer_cache/
+carousel-*.pdf
+*.json.bak
+blog_*.json
+generated_post.json
+linkedin-session.json
+reddit_data.json
+threads_profile.json
+carousel_content_v2.json
+render_sample.cjs
+build_slides.py
+build_slides_v2.py
